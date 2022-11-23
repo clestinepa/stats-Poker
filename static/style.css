@@ -1,0 +1,46 @@
+* {
+    margin:0;
+    padding:0;
+    list-style: none;
+    text-decoration: none;
+}
+
+html {
+    font-family: quicksand;
+    background-color: #092d44;
+    color : hsl(35, 94%, 90%);
+}
+
+header {
+    display:flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+header p {
+    font-size: 350px;
+}
+
+header span {
+    font-size: 250px;
+}
+
+#chip {
+    min-width: 175px;
+    min-height: 175px;
+    width: 175px;
+    height: 175px;
+    background-color: red;
+    border-radius:100%;
+    /* overflow: hidden; */
+}
+
+#inchip {
+    box-sizing: border-box;
+    width:  75%;
+    height: 75%;
+    border-radius:100%;
+    margin: 12.5%;
+    border: 2px solid black;
+}
+

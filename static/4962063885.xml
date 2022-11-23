@@ -1,0 +1,3385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="4962063885">
+<general><mode>real</mode>
+<gametype>Holdem NL €0.01/€0.02</gametype>
+<tablename>Emalahleni, 560234661</tablename>
+<tablecurrency>EUR</tablecurrency>
+<currency>EUR</currency>
+<nickname>clemestine</nickname>
+<gamecount>103</gamecount>
+<startdate>2022-11-20 16:26:30</startdate>
+<bets>€7.35</bets>
+<wins>€7.98</wins>
+</general>
+<game gamecode="6207833639"><general><startdate>2022-11-20 17:27:09</startdate>
+<players><player seat="8" name="10062004" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.59" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.98" dealer="1" win="€0" bet="€0.08" muck="1"/>
+<player seat="5" name="philou83" chips="€2.08" dealer="0" win="€0.17" bet="€0.08" muck="0"/>
+<player seat="6" name="fred1407" chips="€1.95" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="philou83" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="philou83">D4 S3</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<action no="3" player="10062004" type="0" sum="€0"/>
+<action no="4" player="GucciMane45" type="0" sum="€0"/>
+<action no="5" player="hotelprision" type="3" sum="€0.02"/>
+<action no="6" player="philou83" type="3" sum="€0.01"/>
+<action no="7" player="fred1407" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">S6 D7 H5</cards>
+<action no="8" player="philou83" type="5" sum="€0.06"/>
+<action no="9" player="fred1407" type="0" sum="€0"/>
+<action no="10" player="hotelprision" type="3" sum="€0.06"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="11" player="philou83" type="4" sum="€0"/>
+<action no="12" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">HA</cards>
+<action no="13" player="philou83" type="4" sum="€0"/>
+<action no="14" player="hotelprision" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207836281"><general><startdate>2022-11-20 17:27:56</startdate>
+<players><player seat="10" name="GucciMane45" chips="€0.59" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.90" dealer="0" win="€0" bet="€0.07" muck="1"/>
+<player seat="5" name="philou83" chips="€2.17" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.93" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="10062004" chips="€2" dealer="0" win="€0.14" bet="€0.07" muck="0"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="10062004" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">S5 H9</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="philou83">X X</cards>
+<action no="3" player="GucciMane45" type="0" sum="€0"/>
+<action no="4" player="hotelprision" type="3" sum="€0.02"/>
+<action no="5" player="philou83" type="0" sum="€0"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="10062004" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">CJ C8 S3</cards>
+<action no="8" player="10062004" type="4" sum="€0"/>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+<action no="10" player="10062004" type="5" sum="€0.02"/>
+<action no="11" player="hotelprision" type="3" sum="€0.02"/>
+</round>
+<round no="4"><cards type="River">D4</cards>
+<action no="12" player="10062004" type="5" sum="€0.03"/>
+<action no="13" player="hotelprision" type="3" sum="€0.03"/>
+</round>
+</game>
+<game gamecode="6207838601"><general><startdate>2022-11-20 17:28:53</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.83" dealer="0" win="€0.05" bet="€0.02" muck="0"/>
+<player seat="5" name="philou83" chips="€2.17" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.92" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.07" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.59" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="10062004" type="1" sum="€0.01"/>
+<action no="2" player="GucciMane45" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">HQ D3</cards>
+<cards type="Pocket" player="philou83">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<action no="3" player="hotelprision" type="3" sum="€0.02"/>
+<action no="4" player="philou83" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="10062004" type="0" sum="€0"/>
+<action no="7" player="GucciMane45" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C6 S6 H6</cards>
+<action no="8" player="GucciMane45" type="4" sum="€0"/>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="10" player="GucciMane45" type="4" sum="€0"/>
+<action no="11" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">D2</cards>
+<action no="12" player="GucciMane45" type="4" sum="€0"/>
+<action no="13" player="hotelprision" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207840196"><general><startdate>2022-11-20 17:29:19</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.86" dealer="0" win="€0.13" bet="€0.04" muck="0"/>
+<player seat="5" name="philou83" chips="€2.17" dealer="0" win="€0" bet="€0.04" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.92" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.06" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.57" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€2" dealer="0" win="€0" bet="€0.04" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GucciMane45" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">C2 H5</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">H10 S6</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="philou83">X X</cards>
+<action no="3" player="hotelprision" type="3" sum="€0.02"/>
+<action no="4" player="philou83" type="23" sum="€0.04"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="10062004" type="0" sum="€0"/>
+<action no="7" player="GucciMane45" type="0" sum="€0"/>
+<action no="8" player="clemestine" type="3" sum="€0.02"/>
+<action no="9" player="hotelprision" type="3" sum="€0.02"/>
+</round>
+<round no="2"><cards type="Flop">H9 HK H2</cards>
+<action no="10" player="clemestine" type="4" sum="€0"/>
+<action no="11" player="hotelprision" type="4" sum="€0"/>
+<action no="12" player="philou83" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">S3</cards>
+<action no="13" player="clemestine" type="4" sum="€0"/>
+<action no="14" player="hotelprision" type="4" sum="€0"/>
+<action no="15" player="philou83" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">CJ</cards>
+<action no="16" player="clemestine" type="4" sum="€0"/>
+<action no="17" player="hotelprision" type="4" sum="€0"/>
+<action no="18" player="philou83" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207843533"><general><startdate>2022-11-20 17:30:27</startdate>
+<players><player seat="5" name="philou83" chips="€2.13" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.92" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.06" dealer="0" win="€0.27" bet="€0.15" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.56" dealer="1" win="€0" bet="€0.06" muck="1"/>
+<player seat="1" name="clemestine" chips="€1.96" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.95" dealer="0" win="€0" bet="€0.06" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">SJ S3</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="philou83">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="philou83" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="10062004" type="3" sum="€0.02"/>
+<action no="6" player="GucciMane45" type="23" sum="€0.06"/>
+<action no="7" player="clemestine" type="0" sum="€0"/>
+<action no="8" player="hotelprision" type="3" sum="€0.04"/>
+<action no="9" player="10062004" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">HJ H7 H8</cards>
+<action no="10" player="hotelprision" type="4" sum="€0"/>
+<action no="11" player="10062004" type="5" sum="€0.09"/>
+<action no="12" player="GucciMane45" type="0" sum="€0"/>
+<action no="13" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207845288"><general><startdate>2022-11-20 17:31:18</startdate>
+<players><player seat="6" name="fred1407" chips="€1.92" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.18" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.50" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€1.95" dealer="1" win="€0.19" bet="€0.12" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.89" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="5" name="philou83" chips="€2.13" dealer="0" win="€0" bet="€0.06" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hotelprision" type="1" sum="€0.01"/>
+<action no="2" player="philou83" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="clemestine">H8 DJ</cards>
+<cards type="Pocket" player="philou83">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="10062004" type="0" sum="€0"/>
+<action no="5" player="GucciMane45" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="23" sum="€0.06"/>
+<action no="7" player="hotelprision" type="0" sum="€0"/>
+<action no="8" player="philou83" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">D7 HA DQ</cards>
+<action no="9" player="philou83" type="4" sum="€0"/>
+<action no="10" player="clemestine" type="5" sum="€0.06"/>
+<action no="11" player="philou83" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207847470"><general><startdate>2022-11-20 17:32:08</startdate>
+<players><player seat="8" name="10062004" chips="€2.18" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.50" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.02" dealer="0" win="€0.62" bet="€0.29" muck="0"/>
+<player seat="3" name="hotelprision" chips="€0.88" dealer="1" win="€0" bet="€0.06" muck="1"/>
+<player seat="5" name="philou83" chips="€2.07" dealer="0" win="€0" bet="€0.29" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.92" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="philou83" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="philou83">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="clemestine">DQ CA</cards>
+<action no="3" player="10062004" type="0" sum="€0"/>
+<action no="4" player="GucciMane45" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="23" sum="€0.06"/>
+<action no="6" player="hotelprision" type="3" sum="€0.06"/>
+<action no="7" player="philou83" type="3" sum="€0.05"/>
+<action no="8" player="fred1407" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">SQ C4 SK</cards>
+<action no="9" player="philou83" type="5" sum="€0.04"/>
+<action no="10" player="clemestine" type="3" sum="€0.04"/>
+<action no="11" player="hotelprision" type="0" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="12" player="philou83" type="4" sum="€0"/>
+<action no="13" player="clemestine" type="5" sum="€0.19"/>
+<action no="14" player="philou83" type="3" sum="€0.19"/>
+</round>
+<round no="4"><cards type="River">H5</cards>
+<action no="15" player="philou83" type="4" sum="€0"/>
+<action no="16" player="clemestine" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207847541"><general><startdate>2022-11-20 17:33:01</startdate>
+<players><player seat="10" name="GucciMane45" chips="€0.50" dealer="0" win="€0.24" bet="€0.16" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.35" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.82" dealer="0" win="€0" bet="€0.06" muck="1"/>
+<player seat="5" name="philou83" chips="€1.78" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.90" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="10062004" chips="€2.18" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="10062004" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">DQ C6</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="philou83">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<action no="3" player="GucciMane45" type="3" sum="€0.02"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="hotelprision" type="3" sum="€0.02"/>
+<action no="6" player="philou83" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="10062004" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">CK D7 S5</cards>
+<action no="9" player="10062004" type="4" sum="€0"/>
+<action no="10" player="GucciMane45" type="4" sum="€0"/>
+<action no="11" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">S2</cards>
+<action no="12" player="10062004" type="4" sum="€0"/>
+<action no="13" player="GucciMane45" type="5" sum="€0.04"/>
+<action no="14" player="hotelprision" type="3" sum="€0.04"/>
+<action no="15" player="10062004" type="0" sum="€0"/>
+</round>
+<round no="4"><cards type="River">HA</cards>
+<action no="16" player="GucciMane45" type="5" sum="€0.10"/>
+<action no="17" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207850117"><general><startdate>2022-11-20 17:33:59</startdate>
+<players><player seat="1" name="clemestine" chips="€2.35" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.76" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.89" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.16" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.58" dealer="0" win="€0.06" bet="€0.02" muck="0"/>
+</players>
+</general>
+<round no="0"><action no="1" player="10062004" type="1" sum="€0.01"/>
+<action no="2" player="GucciMane45" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">S2 D7</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="GucciMane45">C8 C4</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="hotelprision" type="3" sum="€0.02"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="10062004" type="3" sum="€0.01"/>
+<action no="7" player="GucciMane45" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">S9 DA H2</cards>
+<action no="8" player="10062004" type="4" sum="€0"/>
+<action no="9" player="GucciMane45" type="4" sum="€0"/>
+<action no="10" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+<action no="11" player="10062004" type="4" sum="€0"/>
+<action no="12" player="GucciMane45" type="4" sum="€0"/>
+<action no="13" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">H3</cards>
+<action no="14" player="10062004" type="4" sum="€0"/>
+<action no="15" player="GucciMane45" type="4" sum="€0"/>
+<action no="16" player="hotelprision" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207850186"><general><startdate>2022-11-20 17:34:50</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.74" dealer="0" win="€1.02" bet="€0.74" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.89" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.14" dealer="1" win="€0" bet="€0.28" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.62" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.35" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GucciMane45" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="clemestine">C5 D3</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="hotelprision" type="3" sum="€0.02"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="10062004" type="3" sum="€0.02"/>
+<action no="6" player="GucciMane45" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">DA C4 S4</cards>
+<action no="8" player="clemestine" type="4" sum="€0"/>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+<action no="10" player="10062004" type="5" sum="€0.04"/>
+<action no="11" player="clemestine" type="0" sum="€0"/>
+<action no="12" player="hotelprision" type="3" sum="€0.04"/>
+</round>
+<round no="3"><cards type="Turn">H9</cards>
+<action no="13" player="hotelprision" type="4" sum="€0"/>
+<action no="14" player="10062004" type="5" sum="€0.10"/>
+<action no="15" player="hotelprision" type="3" sum="€0.10"/>
+</round>
+<round no="4"><cards type="River">C9</cards>
+<action no="16" player="hotelprision" type="4" sum="€0"/>
+<action no="17" player="10062004" type="5" sum="€0.12"/>
+<action no="18" player="hotelprision" type="23" sum="€0.58"/>
+<action no="19" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207857208"><general><startdate>2022-11-20 17:36:51</startdate>
+<players><player seat="6" name="fred1407" chips="€1.89" dealer="0" win="€0" bet="€0.50" muck="1"/>
+<player seat="8" name="10062004" chips="€2" dealer="0" win="€1.05" bet="€0.50" muck="0"/>
+<player seat="10" name="GucciMane45" chips="€0.61" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.33" dealer="0" win="€0" bet="€0.06" muck="1"/>
+<player seat="3" name="hotelprision" chips="€1.02" dealer="0" win="€0" bet="€0.06" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">CQ DJ</cards>
+<cards type="Pocket" player="10062004">S8 SA</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<action no="3" player="fred1407" type="23" sum="€0.06"/>
+<action no="4" player="10062004" type="3" sum="€0.06"/>
+<action no="5" player="GucciMane45" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="3" sum="€0.05"/>
+<action no="7" player="hotelprision" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">C3 C8 S5</cards>
+<action no="8" player="clemestine" type="4" sum="€0"/>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+<action no="10" player="fred1407" type="5" sum="€0.16"/>
+<action no="11" player="10062004" type="3" sum="€0.16"/>
+<action no="12" player="clemestine" type="0" sum="€0"/>
+<action no="13" player="hotelprision" type="0" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+<action no="14" player="fred1407" type="5" sum="€0.28"/>
+<action no="15" player="10062004" type="3" sum="€0.28"/>
+</round>
+<round no="4"><cards type="River">DQ</cards>
+<action no="16" player="fred1407" type="4" sum="€0"/>
+<action no="17" player="10062004" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207859051"><general><startdate>2022-11-20 17:38:16</startdate>
+<players><player seat="8" name="10062004" chips="€2.55" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.61" dealer="0" win="€0.23" bet="€0.15" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.27" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.96" dealer="0" win="€0" bet="€0.07" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.39" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hotelprision" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="clemestine">D2 D9</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="10062004" type="0" sum="€0"/>
+<action no="4" player="GucciMane45" type="23" sum="€0.07"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="hotelprision" type="3" sum="€0.06"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">H4 D10 C2</cards>
+<action no="8" player="hotelprision" type="4" sum="€0"/>
+<action no="9" player="GucciMane45" type="5" sum="€0.08"/>
+<action no="10" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207861323"><general><startdate>2022-11-20 17:38:52</startdate>
+<players><player seat="10" name="GucciMane45" chips="€0.69" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.27" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.89" dealer="1" win="€0.18" bet="€0.12" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.37" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="8" name="10062004" chips="€2.55" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="10062004" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">H10 H2</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<action no="3" player="GucciMane45" type="3" sum="€0.02"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="hotelprision" type="3" sum="€0.02"/>
+<action no="6" player="fred1407" type="3" sum="€0.01"/>
+<action no="7" player="10062004" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">H7 D5 CQ</cards>
+<action no="8" player="fred1407" type="4" sum="€0"/>
+<action no="9" player="10062004" type="4" sum="€0"/>
+<action no="10" player="GucciMane45" type="4" sum="€0"/>
+<action no="11" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">C4</cards>
+<action no="12" player="fred1407" type="4" sum="€0"/>
+<action no="13" player="10062004" type="4" sum="€0"/>
+<action no="14" player="GucciMane45" type="4" sum="€0"/>
+<action no="15" player="hotelprision" type="5" sum="€0.10"/>
+<action no="16" player="fred1407" type="0" sum="€0"/>
+<action no="17" player="10062004" type="0" sum="€0"/>
+<action no="18" player="GucciMane45" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207864482"><general><startdate>2022-11-20 17:40:18</startdate>
+<players><player seat="1" name="clemestine" chips="€2.27" dealer="0" win="€1.13" bet="€0.81" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.95" dealer="0" win="€0" bet="€0.33" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.35" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.53" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.67" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="10062004" type="1" sum="€0.01"/>
+<action no="2" player="GucciMane45" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">HQ SK</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<action no="3" player="clemestine" type="23" sum="€0.06"/>
+<action no="4" player="hotelprision" type="3" sum="€0.06"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="10062004" type="0" sum="€0"/>
+<action no="7" player="GucciMane45" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">H9 HA HJ</cards>
+<action no="8" player="clemestine" type="5" sum="€0.07"/>
+<action no="9" player="hotelprision" type="3" sum="€0.07"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="10" player="clemestine" type="5" sum="€0.20"/>
+<action no="11" player="hotelprision" type="3" sum="€0.20"/>
+</round>
+<round no="4"><cards type="River">D9</cards>
+<action no="12" player="clemestine" type="5" sum="€0.48"/>
+<action no="13" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207864576"><general><startdate>2022-11-20 17:41:16</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.62" dealer="0" win="€0" bet="€0.09" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.35" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.52" dealer="1" win="€0" bet="€0.09" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.65" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.59" dealer="0" win="€0.41" bet="€0.23" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="GucciMane45" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="clemestine">DA SQ</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="hotelprision" type="3" sum="€0.02"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="10062004" type="3" sum="€0.02"/>
+<action no="6" player="GucciMane45" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="23" sum="€0.09"/>
+<action no="8" player="hotelprision" type="3" sum="€0.07"/>
+<action no="9" player="10062004" type="3" sum="€0.07"/>
+</round>
+<round no="2"><cards type="Flop">C3 HQ C10</cards>
+<action no="10" player="clemestine" type="5" sum="€0.14"/>
+<action no="11" player="hotelprision" type="0" sum="€0"/>
+<action no="12" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207870329"><general><startdate>2022-11-20 17:42:20</startdate>
+<players><player seat="6" name="fred1407" chips="€1.35" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.43" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.64" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.77" dealer="0" win="€0.09" bet="€0.05" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.53" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">D5 CA</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="10062004" type="3" sum="€0.02"/>
+<action no="5" player="GucciMane45" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="3" sum="€0.01"/>
+<action no="7" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">SJ S4 H7</cards>
+<action no="8" player="clemestine" type="4" sum="€0"/>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+<action no="10" player="10062004" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+<action no="11" player="clemestine" type="5" sum="€0.03"/>
+<action no="12" player="hotelprision" type="0" sum="€0"/>
+<action no="13" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207870805"><general><startdate>2022-11-20 17:43:16</startdate>
+<players><player seat="6" name="fred1407" chips="€1.35" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.41" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.64" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.81" dealer="1" win="€0.26" bet="€0.15" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.51" dealer="0" win="€0" bet="€0.06" muck="1"/>
+<player seat="5" name="juliengar11" chips="€2" dealer="0" win="€0" bet="€0.06" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hotelprision" type="1" sum="€0.01"/>
+<action no="2" player="juliengar11" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">S3 CA</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="10062004" type="0" sum="€0"/>
+<action no="5" player="GucciMane45" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="23" sum="€0.06"/>
+<action no="7" player="hotelprision" type="3" sum="€0.05"/>
+<action no="8" player="juliengar11" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">SQ C3 C7</cards>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+<action no="10" player="juliengar11" type="4" sum="€0"/>
+<action no="11" player="clemestine" type="5" sum="€0.09"/>
+<action no="12" player="hotelprision" type="0" sum="€0"/>
+<action no="13" player="juliengar11" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207871966"><general><startdate>2022-11-20 17:43:55</startdate>
+<players><player seat="8" name="10062004" chips="€2.41" dealer="0" win="€0.59" bet="€0.31" muck="1"/>
+<player seat="10" name="GucciMane45" chips="€0.64" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.92" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.45" dealer="1" win="€0" bet="€0.15" muck="1"/>
+<player seat="5" name="juliengar11" chips="€1.94" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.35" dealer="0" win="€0" bet="€0.15" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="juliengar11" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="GucciMane45">X X</cards>
+<cards type="Pocket" player="clemestine">C8 S2</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<action no="3" player="10062004" type="3" sum="€0.02"/>
+<action no="4" player="GucciMane45" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="hotelprision" type="3" sum="€0.02"/>
+<action no="7" player="juliengar11" type="0" sum="€0"/>
+<action no="8" player="fred1407" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C4 D6 H5</cards>
+<action no="9" player="fred1407" type="5" sum="€0.04"/>
+<action no="10" player="10062004" type="3" sum="€0.04"/>
+<action no="11" player="hotelprision" type="3" sum="€0.04"/>
+</round>
+<round no="3"><cards type="Turn">HA</cards>
+<action no="12" player="fred1407" type="5" sum="€0.09"/>
+<action no="13" player="10062004" type="3" sum="€0.09"/>
+<action no="14" player="hotelprision" type="3" sum="€0.09"/>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+<action no="15" player="fred1407" type="4" sum="€0"/>
+<action no="16" player="10062004" type="5" sum="€0.16"/>
+<action no="17" player="hotelprision" type="0" sum="€0"/>
+<action no="18" player="fred1407" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207878747"><general><startdate>2022-11-20 17:45:21</startdate>
+<players><player seat="10" name="GucciMane45" chips="€0.64" dealer="0" win="€0" bet="€0.64" muck="0"/>
+<player seat="1" name="clemestine" chips="€2.92" dealer="0" win="€1.23" bet="€0.64" muck="0"/>
+<player seat="3" name="hotelprision" chips="€0.30" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="5" name="juliengar11" chips="€1.93" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.20" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="10062004" chips="€2.69" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="10062004" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="GucciMane45">C8 D8</cards>
+<cards type="Pocket" player="clemestine">SK HK</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="GucciMane45" type="23" sum="€0.08"/>
+<action no="4" player="clemestine" type="23" sum="€0.24"/>
+<action no="5" player="hotelprision" type="0" sum="€0"/>
+<action no="6" player="juliengar11" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="10062004" type="0" sum="€0"/>
+<action no="9" player="GucciMane45" type="3" sum="€0.16"/>
+</round>
+<round no="2"><cards type="Flop">D9 S6 H9</cards>
+<action no="10" player="GucciMane45" type="5" sum="€0.40"/>
+<action no="11" player="clemestine" type="3" sum="€0.40"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+</round>
+<round no="4"><cards type="River">S4</cards>
+</round>
+</game>
+<game gamecode="6207878822"><general><startdate>2022-11-20 17:46:05</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.30" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="5" name="juliengar11" chips="€1.93" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.19" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.67" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.51" dealer="0" win="€0.08" bet="€0.04" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="10062004" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="clemestine">H5 CJ</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="hotelprision" type="3" sum="€0.02"/>
+<action no="4" player="juliengar11" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="10062004" type="3" sum="€0.01"/>
+<action no="7" player="clemestine" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">CK HJ SJ</cards>
+<action no="8" player="10062004" type="4" sum="€0"/>
+<action no="9" player="clemestine" type="5" sum="€0.02"/>
+<action no="10" player="hotelprision" type="0" sum="€0"/>
+<action no="11" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207878895"><general><startdate>2022-11-20 17:46:48</startdate>
+<players><player seat="5" name="juliengar11" chips="€1.93" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.19" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.65" dealer="1" win="€0" bet="€0.14" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.55" dealer="0" win="€0" bet="€0.08" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.28" dealer="0" win="€0.40" bet="€0.20" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">S7 DA</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<action no="3" player="juliengar11" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="10062004" type="23" sum="€0.06"/>
+<action no="6" player="clemestine" type="3" sum="€0.05"/>
+<action no="7" player="hotelprision" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">H10 C3 CJ</cards>
+<action no="8" player="clemestine" type="4" sum="€0"/>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+<action no="10" player="10062004" type="5" sum="€0.02"/>
+<action no="11" player="clemestine" type="3" sum="€0.02"/>
+<action no="12" player="hotelprision" type="3" sum="€0.02"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="13" player="clemestine" type="4" sum="€0"/>
+<action no="14" player="hotelprision" type="5" sum="€0.06"/>
+<action no="15" player="10062004" type="3" sum="€0.06"/>
+<action no="16" player="clemestine" type="0" sum="€0"/>
+</round>
+<round no="4"><cards type="River">CK</cards>
+<action no="17" player="hotelprision" type="5" sum="€0.06"/>
+<action no="18" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207880918"><general><startdate>2022-11-20 17:47:56</startdate>
+<players><player seat="6" name="fred1407" chips="€1.19" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.51" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="ANGELOJOE2412" chips="€0.60" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.47" dealer="1" win="€0" bet="€0.06" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.48" dealer="0" win="€0.23" bet="€0.20" muck="0"/>
+<player seat="5" name="juliengar11" chips="€1.93" dealer="0" win="€0.22" bet="€0.20" muck="0"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hotelprision" type="1" sum="€0.01"/>
+<action no="2" player="juliengar11" type="2" sum="€0.02"/>
+<action no="3" player="ANGELOJOE2412" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">H10 SA</cards>
+<cards type="Pocket" player="clemestine">CQ C9</cards>
+<cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="juliengar11">DA D10</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="10062004" type="0" sum="€0"/>
+<action no="6" player="ANGELOJOE2412" type="4" sum="€0"/>
+<action no="7" player="clemestine" type="23" sum="€0.06"/>
+<action no="8" player="hotelprision" type="3" sum="€0.05"/>
+<action no="9" player="juliengar11" type="23" sum="€0.20"/>
+<action no="10" player="ANGELOJOE2412" type="0" sum="€0"/>
+<action no="11" player="clemestine" type="0" sum="€0"/>
+<action no="12" player="hotelprision" type="3" sum="€0.14"/>
+</round>
+<round no="2"><cards type="Flop">C7 HK C6</cards>
+<action no="13" player="hotelprision" type="4" sum="€0"/>
+<action no="14" player="juliengar11" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+<action no="15" player="hotelprision" type="4" sum="€0"/>
+<action no="16" player="juliengar11" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">S3</cards>
+<action no="17" player="hotelprision" type="4" sum="€0"/>
+<action no="18" player="juliengar11" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207885536"><general><startdate>2022-11-20 17:49:19</startdate>
+<players><player seat="8" name="10062004" chips="€2.51" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="ANGELOJOE2412" chips="€0.58" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.41" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.51" dealer="1" win="€0" bet="€0.02" muck="1"/>
+<player seat="5" name="juliengar11" chips="€1.95" dealer="0" win="€0.06" bet="€0.02" muck="0"/>
+<player seat="6" name="fred1407" chips="€1.19" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="juliengar11" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="juliengar11">HK S8</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="clemestine">S10 H8</cards>
+<cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<action no="3" player="10062004" type="0" sum="€0"/>
+<action no="4" player="ANGELOJOE2412" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="hotelprision" type="3" sum="€0.02"/>
+<action no="7" player="juliengar11" type="3" sum="€0.01"/>
+<action no="8" player="fred1407" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C3 H10 D10</cards>
+<action no="9" player="juliengar11" type="4" sum="€0"/>
+<action no="10" player="fred1407" type="4" sum="€0"/>
+<action no="11" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">H2</cards>
+<action no="12" player="juliengar11" type="4" sum="€0"/>
+<action no="13" player="fred1407" type="4" sum="€0"/>
+<action no="14" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">C2</cards>
+<action no="15" player="juliengar11" type="4" sum="€0"/>
+<action no="16" player="fred1407" type="4" sum="€0"/>
+<action no="17" player="hotelprision" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207885621"><general><startdate>2022-11-20 17:50:07</startdate>
+<players><player seat="10" name="ANGELOJOE2412" chips="€0.58" dealer="0" win="€0" bet="€0.12" muck="0"/>
+<player seat="1" name="clemestine" chips="€3.41" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.49" dealer="0" win="€0.26" bet="€0.12" muck="0"/>
+<player seat="5" name="juliengar11" chips="€1.99" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.17" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="10062004" chips="€2.51" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="10062004" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="hotelprision">CQ S6</cards>
+<cards type="Pocket" player="clemestine">S4 S3</cards>
+<cards type="Pocket" player="ANGELOJOE2412">H8 S9</cards>
+<action no="3" player="ANGELOJOE2412" type="3" sum="€0.02"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="hotelprision" type="3" sum="€0.02"/>
+<action no="6" player="juliengar11" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="10062004" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">HK DQ C5</cards>
+<action no="9" player="10062004" type="4" sum="€0"/>
+<action no="10" player="ANGELOJOE2412" type="5" sum="€0.02"/>
+<action no="11" player="hotelprision" type="3" sum="€0.02"/>
+<action no="12" player="10062004" type="0" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">H5</cards>
+<action no="13" player="ANGELOJOE2412" type="5" sum="€0.04"/>
+<action no="14" player="hotelprision" type="3" sum="€0.04"/>
+</round>
+<round no="4"><cards type="River">H9</cards>
+<action no="15" player="ANGELOJOE2412" type="5" sum="€0.04"/>
+<action no="16" player="hotelprision" type="3" sum="€0.04"/>
+</round>
+</game>
+<game gamecode="6207893923"><general><startdate>2022-11-20 17:51:09</startdate>
+<players><player seat="1" name="clemestine" chips="€3.41" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.63" dealer="0" win="€0.29" bet="€0.12" muck="0"/>
+<player seat="5" name="juliengar11" chips="€1.99" dealer="0" win="€0" bet="€0.06" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.16" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.49" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="10" name="ANGELOJOE2412" chips="€0.46" dealer="0" win="€0" bet="€0.12" muck="0"/>
+</players>
+</general>
+<round no="0"><action no="1" player="10062004" type="1" sum="€0.01"/>
+<action no="2" player="ANGELOJOE2412" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">SQ C4</cards>
+<cards type="Pocket" player="ANGELOJOE2412">HK C10</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="hotelprision">D4 SA</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="hotelprision" type="23" sum="€0.04"/>
+<action no="5" player="juliengar11" type="3" sum="€0.04"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="10062004" type="0" sum="€0"/>
+<action no="8" player="ANGELOJOE2412" type="3" sum="€0.02"/>
+</round>
+<round no="2"><cards type="Flop">CA H3 H8</cards>
+<action no="9" player="ANGELOJOE2412" type="5" sum="€0.02"/>
+<action no="10" player="hotelprision" type="3" sum="€0.02"/>
+<action no="11" player="juliengar11" type="3" sum="€0.02"/>
+</round>
+<round no="3"><cards type="Turn">H4</cards>
+<action no="12" player="ANGELOJOE2412" type="5" sum="€0.02"/>
+<action no="13" player="hotelprision" type="3" sum="€0.02"/>
+<action no="14" player="juliengar11" type="0" sum="€0"/>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+<action no="15" player="ANGELOJOE2412" type="5" sum="€0.04"/>
+<action no="16" player="hotelprision" type="3" sum="€0.04"/>
+</round>
+</game>
+<game gamecode="6207894073"><general><startdate>2022-11-20 17:51:46</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.80" dealer="0" win="€0" bet="€0.13" muck="1"/>
+<player seat="5" name="juliengar11" chips="€1.93" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.16" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.48" dealer="1" win="€0.61" bet="€0.35" muck="1"/>
+<player seat="10" name="ANGELOJOE2412" chips="€0.34" dealer="0" win="€0" bet="€0.13" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.41" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ANGELOJOE2412" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="clemestine">S10 CA</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="hotelprision" type="3" sum="€0.02"/>
+<action no="4" player="juliengar11" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="10062004" type="23" sum="€0.11"/>
+<action no="7" player="ANGELOJOE2412" type="3" sum="€0.10"/>
+<action no="8" player="clemestine" type="0" sum="€0"/>
+<action no="9" player="hotelprision" type="3" sum="€0.09"/>
+</round>
+<round no="2"><cards type="Flop">SQ D9 C2</cards>
+<action no="10" player="ANGELOJOE2412" type="5" sum="€0.02"/>
+<action no="11" player="hotelprision" type="3" sum="€0.02"/>
+<action no="12" player="10062004" type="23" sum="€0.24"/>
+<action no="13" player="ANGELOJOE2412" type="0" sum="€0"/>
+<action no="14" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207894186"><general><startdate>2022-11-20 17:52:56</startdate>
+<players><player seat="5" name="juliengar11" chips="€1.93" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.16" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.74" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="ANGELOJOE2412" chips="€0.21" dealer="1" win="€0" bet="€0.06" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.39" dealer="0" win="€0.52" bet="€0.33" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.67" dealer="0" win="€0" bet="€0.15" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="clemestine">D8 DK</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<action no="3" player="juliengar11" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="10062004" type="0" sum="€0"/>
+<action no="6" player="ANGELOJOE2412" type="3" sum="€0.02"/>
+<action no="7" player="clemestine" type="23" sum="€0.06"/>
+<action no="8" player="hotelprision" type="3" sum="€0.04"/>
+<action no="9" player="ANGELOJOE2412" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">SQ S4 D9</cards>
+<action no="10" player="clemestine" type="5" sum="€0.09"/>
+<action no="11" player="hotelprision" type="3" sum="€0.09"/>
+<action no="12" player="ANGELOJOE2412" type="0" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">C3</cards>
+<action no="13" player="clemestine" type="5" sum="€0.18"/>
+<action no="14" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207894422"><general><startdate>2022-11-20 17:53:36</startdate>
+<players><player seat="6" name="fred1407" chips="€1.16" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.74" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="10" name="ANGELOJOE2412" chips="€0.15" dealer="0" win="€0.21" bet="€0.15" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.58" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.52" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="5" name="juliengar11" chips="€1.93" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hotelprision" type="1" sum="€0.01"/>
+<action no="2" player="juliengar11" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">C3 S6</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="10062004" type="3" sum="€0.02"/>
+<action no="5" player="ANGELOJOE2412" type="3" sum="€0.02"/>
+<action no="6" player="clemestine" type="0" sum="€0"/>
+<action no="7" player="hotelprision" type="3" sum="€0.01"/>
+<action no="8" player="juliengar11" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C7 H6 HA</cards>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+<action no="10" player="juliengar11" type="4" sum="€0"/>
+<action no="11" player="10062004" type="4" sum="€0"/>
+<action no="12" player="ANGELOJOE2412" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">HQ</cards>
+<action no="13" player="hotelprision" type="4" sum="€0"/>
+<action no="14" player="juliengar11" type="4" sum="€0"/>
+<action no="15" player="10062004" type="4" sum="€0"/>
+<action no="16" player="ANGELOJOE2412" type="5" sum="€0.13"/>
+<action no="17" player="hotelprision" type="0" sum="€0"/>
+<action no="18" player="juliengar11" type="0" sum="€0"/>
+<action no="19" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207896149"><general><startdate>2022-11-20 17:54:37</startdate>
+<players><player seat="8" name="10062004" chips="€2.72" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="ANGELOJOE2412" chips="€0.21" dealer="0" win="€0.16" bet="€0.08" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.58" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.50" dealer="1" win="€0" bet="€0.06" muck="1"/>
+<player seat="5" name="juliengar11" chips="€1.91" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.16" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="juliengar11" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="clemestine">H10 D4</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="10062004" type="0" sum="€0"/>
+<action no="4" player="ANGELOJOE2412" type="3" sum="€0.02"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="hotelprision" type="3" sum="€0.02"/>
+<action no="7" player="juliengar11" type="0" sum="€0"/>
+<action no="8" player="fred1407" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C2 C3 D6</cards>
+<action no="9" player="fred1407" type="4" sum="€0"/>
+<action no="10" player="ANGELOJOE2412" type="5" sum="€0.02"/>
+<action no="11" player="hotelprision" type="3" sum="€0.02"/>
+<action no="12" player="fred1407" type="0" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">H7</cards>
+<action no="13" player="ANGELOJOE2412" type="5" sum="€0.02"/>
+<action no="14" player="hotelprision" type="3" sum="€0.02"/>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+<action no="15" player="ANGELOJOE2412" type="5" sum="€0.02"/>
+<action no="16" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207900807"><general><startdate>2022-11-20 17:55:20</startdate>
+<players><player seat="10" name="ANGELOJOE2412" chips="€0.29" dealer="0" win="€0" bet="€0.29" muck="0"/>
+<player seat="1" name="clemestine" chips="€3.58" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.44" dealer="0" win="€0.78" bet="€0.44" muck="0"/>
+<player seat="5" name="juliengar11" chips="€1.90" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.14" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="10062004" chips="€2.72" dealer="0" win="€0" bet="€0.08" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="10062004" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">C3 S7</cards>
+<cards type="Pocket" player="hotelprision">S6 S8</cards>
+<cards type="Pocket" player="ANGELOJOE2412">CK DQ</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<action no="3" player="ANGELOJOE2412" type="23" sum="€0.04"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="hotelprision" type="3" sum="€0.04"/>
+<action no="6" player="juliengar11" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="10062004" type="3" sum="€0.02"/>
+</round>
+<round no="2"><cards type="Flop">S3 D10 C10</cards>
+<action no="9" player="10062004" type="4" sum="€0"/>
+<action no="10" player="ANGELOJOE2412" type="5" sum="€0.02"/>
+<action no="11" player="hotelprision" type="3" sum="€0.02"/>
+<action no="12" player="10062004" type="3" sum="€0.02"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="13" player="10062004" type="4" sum="€0"/>
+<action no="14" player="ANGELOJOE2412" type="4" sum="€0"/>
+<action no="15" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">SJ</cards>
+<action no="16" player="10062004" type="5" sum="€0.02"/>
+<action no="17" player="ANGELOJOE2412" type="23" sum="€0.23"/>
+<action no="18" player="hotelprision" type="7" sum="€0.38"/>
+<action no="19" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207900896"><general><startdate>2022-11-20 17:56:07</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.78" dealer="0" win="€0" bet="€0.20" muck="1"/>
+<player seat="5" name="juliengar11" chips="€1.90" dealer="0" win="€0.57" bet="€0.36" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.13" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.64" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.58" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="10062004" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="clemestine">C6 H4</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="hotelprision" type="3" sum="€0.02"/>
+<action no="4" player="juliengar11" type="23" sum="€0.08"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="10062004" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="0" sum="€0"/>
+<action no="8" player="hotelprision" type="3" sum="€0.06"/>
+</round>
+<round no="2"><cards type="Flop">D7 H3 S3</cards>
+<action no="9" player="hotelprision" type="5" sum="€0.02"/>
+<action no="10" player="juliengar11" type="23" sum="€0.12"/>
+<action no="11" player="hotelprision" type="3" sum="€0.10"/>
+</round>
+<round no="3"><cards type="Turn">DJ</cards>
+<action no="12" player="hotelprision" type="4" sum="€0"/>
+<action no="13" player="juliengar11" type="5" sum="€0.16"/>
+<action no="14" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207907876"><general><startdate>2022-11-20 17:56:55</startdate>
+<players><player seat="5" name="juliengar11" chips="€2.11" dealer="0" win="€0.22" bet="€0.15" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.13" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.63" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.56" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.58" dealer="0" win="€0" bet="€0.06" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">C6 C2</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="juliengar11" type="23" sum="€0.06"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="10062004" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="0" sum="€0"/>
+<action no="7" player="hotelprision" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">S2 D2 S8</cards>
+<action no="8" player="hotelprision" type="4" sum="€0"/>
+<action no="9" player="juliengar11" type="5" sum="€0.09"/>
+<action no="10" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207909316"><general><startdate>2022-11-20 17:57:31</startdate>
+<players><player seat="6" name="fred1407" chips="€1.13" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.63" dealer="0" win="€0" bet="€0.04" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.55" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.52" dealer="0" win="€0.22" bet="€0.16" muck="1"/>
+<player seat="5" name="juliengar11" chips="€2.18" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hotelprision" type="1" sum="€0.01"/>
+<action no="2" player="juliengar11" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="clemestine">S2 C9</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="10062004" type="3" sum="€0.02"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="hotelprision" type="23" sum="€0.04"/>
+<action no="7" player="juliengar11" type="0" sum="€0"/>
+<action no="8" player="10062004" type="3" sum="€0.02"/>
+</round>
+<round no="2"><cards type="Flop">D8 SA C10</cards>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+<action no="10" player="10062004" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="11" player="hotelprision" type="4" sum="€0"/>
+<action no="12" player="10062004" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">DJ</cards>
+<action no="13" player="hotelprision" type="5" sum="€0.12"/>
+<action no="14" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207909397"><general><startdate>2022-11-20 17:58:24</startdate>
+<players><player seat="8" name="10062004" chips="€2.59" dealer="0" win="€0" bet="€0.06" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.55" dealer="0" win="€0" bet="€0.19" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.58" dealer="1" win="€0" bet="€0.06" muck="1"/>
+<player seat="5" name="juliengar11" chips="€2.16" dealer="0" win="€0.71" bet="€0.41" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.13" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="juliengar11" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="clemestine">SJ H6</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="10062004" type="3" sum="€0.02"/>
+<action no="4" player="clemestine" type="23" sum="€0.06"/>
+<action no="5" player="hotelprision" type="3" sum="€0.06"/>
+<action no="6" player="juliengar11" type="3" sum="€0.05"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="10062004" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">CQ H7 D5</cards>
+<action no="9" player="juliengar11" type="4" sum="€0"/>
+<action no="10" player="10062004" type="4" sum="€0"/>
+<action no="11" player="clemestine" type="5" sum="€0.13"/>
+<action no="12" player="hotelprision" type="0" sum="€0"/>
+<action no="13" player="juliengar11" type="3" sum="€0.13"/>
+<action no="14" player="10062004" type="0" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">SQ</cards>
+<action no="15" player="juliengar11" type="5" sum="€0.22"/>
+<action no="16" player="clemestine" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207909591"><general><startdate>2022-11-20 17:59:39</startdate>
+<players><player seat="1" name="clemestine" chips="€3.36" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.52" dealer="0" win="€0" bet="€0.04" muck="1"/>
+<player seat="5" name="juliengar11" chips="€2.46" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.11" dealer="0" win="€0" bet="€0.12" muck="1"/>
+<player seat="8" name="10062004" chips="€2.53" dealer="0" win="€0.55" bet="€0.40" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="10062004" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="clemestine">CK S2</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="hotelprision" type="23" sum="€0.04"/>
+<action no="5" player="juliengar11" type="0" sum="€0"/>
+<action no="6" player="fred1407" type="3" sum="€0.03"/>
+<action no="7" player="10062004" type="3" sum="€0.02"/>
+</round>
+<round no="2"><cards type="Flop">C7 C3 DJ</cards>
+<action no="8" player="fred1407" type="5" sum="€0.08"/>
+<action no="9" player="10062004" type="23" sum="€0.36"/>
+<action no="10" player="hotelprision" type="0" sum="€0"/>
+<action no="11" player="fred1407" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207913446"><general><startdate>2022-11-20 18:00:34</startdate>
+<players><player seat="1" name="clemestine" chips="€3.36" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.48" dealer="0" win="€0.13" bet="€0.10" muck="1"/>
+<player seat="5" name="juliengar11" chips="€2.46" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€0.99" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.68" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="10" name="FrelonSakey" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="10062004" type="1" sum="€0.01"/>
+<action no="2" player="FrelonSakey" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="FrelonSakey">X X</cards>
+<cards type="Pocket" player="clemestine">C6 C4</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="hotelprision" type="3" sum="€0.02"/>
+<action no="5" player="juliengar11" type="0" sum="€0"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="10062004" type="0" sum="€0"/>
+<action no="8" player="FrelonSakey" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">HQ S4 CA</cards>
+<action no="9" player="FrelonSakey" type="4" sum="€0"/>
+<action no="10" player="hotelprision" type="5" sum="€0.08"/>
+<action no="11" player="FrelonSakey" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207916105"><general><startdate>2022-11-20 18:01:38</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.51" dealer="0" win="€0.31" bet="€0.18" muck="1"/>
+<player seat="5" name="juliengar11" chips="€2.46" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€0.99" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.67" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="FrelonSakey" chips="€2" dealer="0" win="€0" bet="€0.12" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.36" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="FrelonSakey" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="clemestine">S2 S7</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="FrelonSakey">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="hotelprision" type="23" sum="€0.06"/>
+<action no="4" player="juliengar11" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="10062004" type="0" sum="€0"/>
+<action no="7" player="FrelonSakey" type="3" sum="€0.05"/>
+<action no="8" player="clemestine" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C2 DQ H4</cards>
+<action no="9" player="FrelonSakey" type="4" sum="€0"/>
+<action no="10" player="hotelprision" type="5" sum="€0.06"/>
+<action no="11" player="FrelonSakey" type="3" sum="€0.06"/>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+<action no="12" player="FrelonSakey" type="4" sum="€0"/>
+<action no="13" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">H10</cards>
+<action no="14" player="FrelonSakey" type="4" sum="€0"/>
+<action no="15" player="hotelprision" type="5" sum="€0.06"/>
+<action no="16" player="FrelonSakey" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207921525"><general><startdate>2022-11-20 18:02:30</startdate>
+<players><player seat="5" name="juliengar11" chips="€2.46" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€0.99" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.67" dealer="0" win="€0" bet="€0.09" muck="1"/>
+<player seat="10" name="FrelonSakey" chips="€2" dealer="1" win="€0" bet="€0.09" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.34" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.64" dealer="0" win="€0.27" bet="€0.09" muck="0"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="clemestine">C6 C8</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="hotelprision">H9 S2</cards>
+<cards type="Pocket" player="FrelonSakey">X X</cards>
+<action no="3" player="juliengar11" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="10062004" type="3" sum="€0.02"/>
+<action no="6" player="FrelonSakey" type="23" sum="€0.09"/>
+<action no="7" player="clemestine" type="0" sum="€0"/>
+<action no="8" player="hotelprision" type="3" sum="€0.07"/>
+<action no="9" player="10062004" type="3" sum="€0.07"/>
+</round>
+<round no="2"><cards type="Flop">D8 DJ C5</cards>
+<action no="10" player="hotelprision" type="4" sum="€0"/>
+<action no="11" player="10062004" type="4" sum="€0"/>
+<action no="12" player="FrelonSakey" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+<action no="13" player="hotelprision" type="4" sum="€0"/>
+<action no="14" player="10062004" type="4" sum="€0"/>
+<action no="15" player="FrelonSakey" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">C3</cards>
+<action no="16" player="hotelprision" type="4" sum="€0"/>
+<action no="17" player="10062004" type="4" sum="€0"/>
+<action no="18" player="FrelonSakey" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207925086"><general><startdate>2022-11-20 18:03:46</startdate>
+<players><player seat="6" name="fred1407" chips="€0.99" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="10062004" chips="€2.58" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="FrelonSakey" chips="€2" dealer="0" win="€0.24" bet="€0.13" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.33" dealer="1" win="€0" bet="€0.05" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.82" dealer="0" win="€0" bet="€0.05" muck="1"/>
+<player seat="5" name="juliengar11" chips="€2.46" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hotelprision" type="1" sum="€0.01"/>
+<action no="2" player="juliengar11" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="juliengar11">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="clemestine">HJ H10</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="FrelonSakey">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="10062004" type="0" sum="€0"/>
+<action no="5" player="FrelonSakey" type="23" sum="€0.05"/>
+<action no="6" player="clemestine" type="3" sum="€0.05"/>
+<action no="7" player="hotelprision" type="3" sum="€0.04"/>
+<action no="8" player="juliengar11" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C9 H3 S3</cards>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+<action no="10" player="FrelonSakey" type="5" sum="€0.08"/>
+<action no="11" player="clemestine" type="0" sum="€0"/>
+<action no="12" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207925150"><general><startdate>2022-11-20 18:04:22</startdate>
+<players><player seat="1" name="clemestine" chips="€3.28" dealer="0" win="€0.21" bet="€0.13" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.77" dealer="1" win="€0" bet="€0.06" muck="1"/>
+<player seat="6" name="fred1407" chips="€0.99" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="10" name="FrelonSakey" chips="€2.11" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="FrelonSakey" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="FrelonSakey">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">C8 SA</cards>
+<action no="3" player="clemestine" type="23" sum="€0.06"/>
+<action no="4" player="hotelprision" type="3" sum="€0.06"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="FrelonSakey" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">D3 S5 SQ</cards>
+<action no="7" player="clemestine" type="5" sum="€0.07"/>
+<action no="8" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207925190"><general><startdate>2022-11-20 18:04:45</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.71" dealer="0" win="€0.22" bet="€0.14" muck="1"/>
+<player seat="6" name="fred1407" chips="€0.98" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="FrelonSakey" chips="€2.09" dealer="0" win="€0" bet="€0.04" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.36" dealer="0" win="€0" bet="€0.04" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="FrelonSakey" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="FrelonSakey">X X</cards>
+<cards type="Pocket" player="clemestine">HK H4</cards>
+<action no="3" player="hotelprision" type="23" sum="€0.04"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="FrelonSakey" type="3" sum="€0.03"/>
+<action no="6" player="clemestine" type="3" sum="€0.02"/>
+</round>
+<round no="2"><cards type="Flop">DQ S7 D8</cards>
+<action no="7" player="FrelonSakey" type="4" sum="€0"/>
+<action no="8" player="clemestine" type="4" sum="€0"/>
+<action no="9" player="hotelprision" type="5" sum="€0.10"/>
+<action no="10" player="FrelonSakey" type="0" sum="€0"/>
+<action no="11" player="clemestine" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207929998"><general><startdate>2022-11-20 18:05:40</startdate>
+<players><player seat="6" name="fred1407" chips="€0.98" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="FrelonSakey" chips="€2.05" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.32" dealer="0" win="€0" bet="€0.54" muck="0"/>
+<player seat="3" name="hotelprision" chips="€0.79" dealer="0" win="€1.01" bet="€0.54" muck="0"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">H8 S8</cards>
+<cards type="Pocket" player="FrelonSakey">X X</cards>
+<cards type="Pocket" player="hotelprision">HK CJ</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="FrelonSakey" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="23" sum="€0.06"/>
+<action no="6" player="hotelprision" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">HA DK D5</cards>
+<action no="7" player="clemestine" type="5" sum="€0.06"/>
+<action no="8" player="hotelprision" type="3" sum="€0.06"/>
+</round>
+<round no="3"><cards type="Turn">CK</cards>
+<action no="9" player="clemestine" type="5" sum="€0.12"/>
+<action no="10" player="hotelprision" type="3" sum="€0.12"/>
+</round>
+<round no="4"><cards type="River">CA</cards>
+<action no="11" player="clemestine" type="5" sum="€0.30"/>
+<action no="12" player="hotelprision" type="3" sum="€0.30"/>
+</round>
+</game>
+<game gamecode="6207932849"><general><startdate>2022-11-20 18:06:33</startdate>
+<players><player seat="6" name="fred1407" chips="€0.98" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="FrelonSakey" chips="€2.05" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.78" dealer="1" win="€1.01" bet="€0.73" muck="1"/>
+<player seat="3" name="hotelprision" chips="€1.26" dealer="0" win="€0" bet="€0.30" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hotelprision" type="1" sum="€0.01"/>
+<action no="2" player="Xavigates" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="FrelonSakey">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">C10 D10</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="FrelonSakey" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="23" sum="€0.06"/>
+<action no="6" player="hotelprision" type="23" sum="€0.10"/>
+<action no="7" player="Xavigates" type="0" sum="€0"/>
+<action no="8" player="clemestine" type="23" sum="€0.30"/>
+<action no="9" player="hotelprision" type="3" sum="€0.20"/>
+</round>
+<round no="2"><cards type="Flop">H7 C6 D3</cards>
+<action no="10" player="hotelprision" type="4" sum="€0"/>
+<action no="11" player="clemestine" type="5" sum="€0.43"/>
+<action no="12" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207932921"><general><startdate>2022-11-20 18:07:12</startdate>
+<players><player seat="1" name="clemestine" chips="€3.06" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.96" dealer="1" win="€0" bet="€0.05" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€0.98" dealer="0" win="€0.16" bet="€0.10" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Xavigates" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="clemestine">S4 SA</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="hotelprision" type="3" sum="€0.02"/>
+<action no="5" player="Xavigates" type="0" sum="€0"/>
+<action no="6" player="fred1407" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C5 H6 DQ</cards>
+<action no="7" player="fred1407" type="5" sum="€0.03"/>
+<action no="8" player="hotelprision" type="3" sum="€0.03"/>
+</round>
+<round no="3"><cards type="Turn">D2</cards>
+<action no="9" player="fred1407" type="5" sum="€0.05"/>
+<action no="10" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207936094"><general><startdate>2022-11-20 18:07:47</startdate>
+<players><player seat="1" name="clemestine" chips="€3.06" dealer="0" win="€0.31" bet="€0.19" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.91" dealer="0" win="€0" bet="€0.06" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.04" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="JodiCompton" chips="€2" dealer="0" win="€0" bet="€0.06" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="JodiCompton" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="clemestine">H10 SA</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="JodiCompton">X X</cards>
+<action no="3" player="clemestine" type="23" sum="€0.06"/>
+<action no="4" player="hotelprision" type="3" sum="€0.06"/>
+<action no="5" player="Xavigates" type="0" sum="€0"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="JodiCompton" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">SK DA C2</cards>
+<action no="8" player="JodiCompton" type="4" sum="€0"/>
+<action no="9" player="clemestine" type="5" sum="€0.13"/>
+<action no="10" player="hotelprision" type="0" sum="€0"/>
+<action no="11" player="JodiCompton" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207938685"><general><startdate>2022-11-20 18:08:28</startdate>
+<players><player seat="1" name="clemestine" chips="€3.18" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.85" dealer="0" win="€0" bet="€0.11" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.03" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="JodiCompton" chips="€2" dealer="0" win="€0.41" bet="€0.29" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="JodiCompton" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="JodiCompton">X X</cards>
+<cards type="Pocket" player="clemestine">S8 C3</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="hotelprision" type="3" sum="€0.02"/>
+<action no="5" player="Xavigates" type="0" sum="€0"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="JodiCompton" type="3" sum="€0.01"/>
+<action no="8" player="Vesuve78" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">S6 D9 C10</cards>
+<action no="9" player="JodiCompton" type="5" sum="€0.03"/>
+<action no="10" player="Vesuve78" type="0" sum="€0"/>
+<action no="11" player="hotelprision" type="3" sum="€0.03"/>
+</round>
+<round no="3"><cards type="Turn">SA</cards>
+<action no="12" player="JodiCompton" type="5" sum="€0.06"/>
+<action no="13" player="hotelprision" type="3" sum="€0.06"/>
+</round>
+<round no="4"><cards type="River">HQ</cards>
+<action no="14" player="JodiCompton" type="5" sum="€0.18"/>
+<action no="15" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207941160"><general><startdate>2022-11-20 18:09:24</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.74" dealer="0" win="€0.02" bet="€0.02" muck="0"/>
+<player seat="5" name="Xavigates" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.03" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="JodiCompton" chips="€2.12" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.18" dealer="0" win="€0.03" bet="€0.02" muck="0"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vesuve78" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">HK D5</cards>
+<cards type="Pocket" player="clemestine">SK C7</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="JodiCompton">X X</cards>
+<action no="3" player="hotelprision" type="3" sum="€0.02"/>
+<action no="4" player="Xavigates" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="JodiCompton" type="0" sum="€0"/>
+<action no="7" player="Vesuve78" type="0" sum="€0"/>
+<action no="8" player="clemestine" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">D9 D3 H9</cards>
+<action no="9" player="clemestine" type="4" sum="€0"/>
+<action no="10" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">C10</cards>
+<action no="11" player="clemestine" type="4" sum="€0"/>
+<action no="12" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">S10</cards>
+<action no="13" player="clemestine" type="4" sum="€0"/>
+<action no="14" player="hotelprision" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207942459"><general><startdate>2022-11-20 18:10:01</startdate>
+<players><player seat="5" name="Xavigates" chips="€2" dealer="0" win="€2.03" bet="€2" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.03" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="JodiCompton" chips="€2.12" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.19" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.74" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">S6 C6</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="JodiCompton">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<action no="3" player="Xavigates" type="23" sum="€2"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="JodiCompton" type="0" sum="€0"/>
+<action no="6" player="Vesuve78" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="0" sum="€0"/>
+<action no="8" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207942578"><general><startdate>2022-11-20 18:11:02</startdate>
+<players><player seat="6" name="fred1407" chips="€1.03" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="JodiCompton" chips="€2.12" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.18" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.72" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.03" dealer="0" win="€2.05" bet="€2.03" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hotelprision" type="1" sum="€0.01"/>
+<action no="2" player="Xavigates" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">S3 H5</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="JodiCompton">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="JodiCompton" type="0" sum="€0"/>
+<action no="5" player="Vesuve78" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="0" sum="€0"/>
+<action no="7" player="hotelprision" type="3" sum="€0.01"/>
+<action no="8" player="Xavigates" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">D6 H2 D3</cards>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+<action no="10" player="Xavigates" type="5" sum="€2.01"/>
+<action no="11" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207946534"><general><startdate>2022-11-20 18:12:11</startdate>
+<players><player seat="8" name="JodiCompton" chips="€2.12" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0.21" bet="€0.13" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.18" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.70" dealer="1" win="€0" bet="€0.05" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.05" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.03" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Xavigates" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="JodiCompton">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="clemestine">C4 SK</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="JodiCompton" type="0" sum="€0"/>
+<action no="4" player="Vesuve78" type="23" sum="€0.05"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="hotelprision" type="3" sum="€0.05"/>
+<action no="7" player="Xavigates" type="0" sum="€0"/>
+<action no="8" player="fred1407" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C7 D7 HA</cards>
+<action no="9" player="Vesuve78" type="5" sum="€0.08"/>
+<action no="10" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207949177"><general><startdate>2022-11-20 18:12:44</startdate>
+<players><player seat="1" name="clemestine" chips="€3.18" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.65" dealer="0" win="€0" bet="€0.08" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.04" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.01" dealer="0" win="€0.39" bet="€0.24" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2.08" dealer="0" win="€0" bet="€0.08" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">S8 D10</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="hotelprision" type="3" sum="€0.02"/>
+<action no="5" player="Xavigates" type="0" sum="€0"/>
+<action no="6" player="fred1407" type="3" sum="€0.01"/>
+<action no="7" player="Vesuve78" type="23" sum="€0.08"/>
+<action no="8" player="hotelprision" type="3" sum="€0.06"/>
+<action no="9" player="fred1407" type="3" sum="€0.06"/>
+</round>
+<round no="2"><cards type="Flop">D5 S2 H10</cards>
+<action no="10" player="fred1407" type="5" sum="€0.16"/>
+<action no="11" player="Vesuve78" type="0" sum="€0"/>
+<action no="12" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207952341"><general><startdate>2022-11-20 18:13:43</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.57" dealer="0" win="€0" bet="€0.21" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.04" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.16" dealer="1" win="€0.64" bet="€0.43" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.18" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vesuve78" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">SJ D2</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<action no="3" player="hotelprision" type="3" sum="€0.02"/>
+<action no="4" player="Xavigates" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="23" sum="€0.08"/>
+<action no="6" player="Vesuve78" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="0" sum="€0"/>
+<action no="8" player="hotelprision" type="3" sum="€0.06"/>
+</round>
+<round no="2"><cards type="Flop">HJ S2 H4</cards>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+<action no="10" player="fred1407" type="5" sum="€0.13"/>
+<action no="11" player="hotelprision" type="3" sum="€0.13"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+<action no="12" player="hotelprision" type="4" sum="€0"/>
+<action no="13" player="fred1407" type="5" sum="€0.22"/>
+<action no="14" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207952818"><general><startdate>2022-11-20 18:14:25</startdate>
+<players><player seat="5" name="Xavigates" chips="€2.04" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.37" dealer="0" win="€0.46" bet="€0.31" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.16" dealer="0" win="€0" bet="€0.15" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.36" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">D9 SK</cards>
+<action no="3" player="Xavigates" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="23" sum="€0.06"/>
+<action no="5" player="Vesuve78" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="3" sum="€0.05"/>
+<action no="7" player="hotelprision" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">H9 D2 CJ</cards>
+<action no="8" player="clemestine" type="4" sum="€0"/>
+<action no="9" player="fred1407" type="5" sum="€0.09"/>
+<action no="10" player="clemestine" type="3" sum="€0.09"/>
+</round>
+<round no="3"><cards type="Turn">DA</cards>
+<action no="11" player="clemestine" type="4" sum="€0"/>
+<action no="12" player="fred1407" type="5" sum="€0.16"/>
+<action no="13" player="clemestine" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207955309"><general><startdate>2022-11-20 18:15:09</startdate>
+<players><player seat="6" name="fred1407" chips="€1.52" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.01" dealer="1" win="€0.41" bet="€0.27" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.34" dealer="0" win="€0" bet="€0.13" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.04" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hotelprision" type="1" sum="€0.01"/>
+<action no="2" player="Xavigates" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">DA H10</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="Vesuve78" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="23" sum="€0.06"/>
+<action no="6" player="hotelprision" type="3" sum="€0.05"/>
+<action no="7" player="Xavigates" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">CK C2 H5</cards>
+<action no="8" player="hotelprision" type="4" sum="€0"/>
+<action no="9" player="clemestine" type="5" sum="€0.07"/>
+<action no="10" player="hotelprision" type="3" sum="€0.07"/>
+</round>
+<round no="3"><cards type="Turn">HJ</cards>
+<action no="11" player="hotelprision" type="4" sum="€0"/>
+<action no="12" player="clemestine" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">SA</cards>
+<action no="13" player="hotelprision" type="4" sum="€0"/>
+<action no="14" player="clemestine" type="5" sum="€0.14"/>
+<action no="15" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207957142"><general><startdate>2022-11-20 18:16:06</startdate>
+<players><player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.15" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.21" dealer="1" win="€0" bet="€0.04" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.02" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.52" dealer="0" win="€0.15" bet="€0.10" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Xavigates" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="clemestine">S7 HQ</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="Vesuve78" type="0" sum="€0"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="hotelprision" type="3" sum="€0.02"/>
+<action no="6" player="Xavigates" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">D3 C10 HA</cards>
+<action no="8" player="fred1407" type="5" sum="€0.02"/>
+<action no="9" player="hotelprision" type="3" sum="€0.02"/>
+</round>
+<round no="3"><cards type="Turn">S6</cards>
+<action no="10" player="fred1407" type="5" sum="€0.06"/>
+<action no="11" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207958686"><general><startdate>2022-11-20 18:17:02</startdate>
+<players><player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.15" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.17" dealer="0" win="€0.05" bet="€0.02" muck="0"/>
+<player seat="5" name="Xavigates" chips="€2.01" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.57" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="ordi22" chips="€0.60" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="ordi22" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">H5 DQ</cards>
+<cards type="Pocket" player="hotelprision">S5 DA</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="ordi22">D4 S7</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="Vesuve78" type="0" sum="€0"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="hotelprision" type="3" sum="€0.02"/>
+<action no="6" player="Xavigates" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="ordi22" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C5 S10 C10</cards>
+<action no="9" player="ordi22" type="4" sum="€0"/>
+<action no="10" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="11" player="ordi22" type="4" sum="€0"/>
+<action no="12" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+<action no="13" player="ordi22" type="4" sum="€0"/>
+<action no="14" player="hotelprision" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207958777"><general><startdate>2022-11-20 18:17:54</startdate>
+<players><player seat="1" name="clemestine" chips="€3.15" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.20" dealer="0" win="€0.23" bet="€0.20" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.01" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.56" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="ordi22" chips="€0.58" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ordi22" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">HK C8</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="ordi22">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="hotelprision" type="3" sum="€0.02"/>
+<action no="5" player="Xavigates" type="0" sum="€0"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="ordi22" type="0" sum="€0"/>
+<action no="8" player="Vesuve78" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">S3 H10 H5</cards>
+<action no="9" player="Vesuve78" type="4" sum="€0"/>
+<action no="10" player="hotelprision" type="5" sum="€0.18"/>
+<action no="11" player="Vesuve78" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207963248"><general><startdate>2022-11-20 18:18:32</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.23" dealer="0" win="€0.05" bet="€0.02" muck="0"/>
+<player seat="5" name="Xavigates" chips="€2.01" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.56" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="ordi22" chips="€0.57" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.15" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vesuve78" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">CA S4</cards>
+<cards type="Pocket" player="ordi22">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">S2 CJ</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="hotelprision" type="3" sum="€0.02"/>
+<action no="4" player="Xavigates" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="ordi22" type="0" sum="€0"/>
+<action no="7" player="Vesuve78" type="0" sum="€0"/>
+<action no="8" player="clemestine" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">D4 C6 D7</cards>
+<action no="9" player="clemestine" type="4" sum="€0"/>
+<action no="10" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">S9</cards>
+<action no="11" player="clemestine" type="4" sum="€0"/>
+<action no="12" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">S8</cards>
+<action no="13" player="clemestine" type="4" sum="€0"/>
+<action no="14" player="hotelprision" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207968260"><general><startdate>2022-11-20 18:19:11</startdate>
+<players><player seat="5" name="Xavigates" chips="€2.01" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.56" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="ordi22" chips="€0.57" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="1" win="€0.16" bet="€0.10" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.13" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.26" dealer="0" win="€0" bet="€0.05" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="ordi22">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">DQ C3</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="Xavigates" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="ordi22" type="0" sum="€0"/>
+<action no="6" player="Vesuve78" type="23" sum="€0.05"/>
+<action no="7" player="clemestine" type="0" sum="€0"/>
+<action no="8" player="hotelprision" type="3" sum="€0.03"/>
+</round>
+<round no="2"><cards type="Flop">H4 S10 H3</cards>
+<action no="9" player="hotelprision" type="4" sum="€0"/>
+<action no="10" player="Vesuve78" type="5" sum="€0.05"/>
+<action no="11" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207968337"><general><startdate>2022-11-20 18:19:50</startdate>
+<players><player seat="6" name="fred1407" chips="€1.56" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="ordi22" chips="€0.57" dealer="0" win="€0.35" bet="€0.20" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2.06" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€3.12" dealer="1" win="€0" bet="€0.13" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.21" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.01" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="hotelprision" type="1" sum="€0.01"/>
+<action no="2" player="Xavigates" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">DK S7</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="ordi22">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="ordi22" type="3" sum="€0.02"/>
+<action no="5" player="Vesuve78" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="23" sum="€0.06"/>
+<action no="7" player="hotelprision" type="0" sum="€0"/>
+<action no="8" player="Xavigates" type="0" sum="€0"/>
+<action no="9" player="ordi22" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">SA HJ CA</cards>
+<action no="10" player="ordi22" type="4" sum="€0"/>
+<action no="11" player="clemestine" type="5" sum="€0.07"/>
+<action no="12" player="ordi22" type="23" sum="€0.14"/>
+<action no="13" player="clemestine" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207968533"><general><startdate>2022-11-20 18:20:46</startdate>
+<players><player seat="8" name="ordi22" chips="€0.72" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2.06" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.99" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.20" dealer="1" win="€0.09" bet="€0.06" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.56" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Xavigates" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">S8 D5</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="ordi22">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="ordi22" type="0" sum="€0"/>
+<action no="4" player="Vesuve78" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="hotelprision" type="3" sum="€0.02"/>
+<action no="7" player="Xavigates" type="0" sum="€0"/>
+<action no="8" player="fred1407" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">D7 C10 C2</cards>
+<action no="9" player="fred1407" type="4" sum="€0"/>
+<action no="10" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">D10</cards>
+<action no="11" player="fred1407" type="4" sum="€0"/>
+<action no="12" player="hotelprision" type="5" sum="€0.04"/>
+<action no="13" player="fred1407" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207968605"><general><startdate>2022-11-20 18:21:21</startdate>
+<players><player seat="10" name="Vesuve78" chips="€2.06" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.99" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.23" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.54" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="ordi22" chips="€0.72" dealer="0" win="€0.07" bet="€0.04" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="ordi22" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">C3 HK</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="ordi22">X X</cards>
+<action no="3" player="Vesuve78" type="0" sum="€0"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="hotelprision" type="3" sum="€0.02"/>
+<action no="6" player="Xavigates" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="ordi22" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">CQ D7 H10</cards>
+<action no="9" player="ordi22" type="4" sum="€0"/>
+<action no="10" player="hotelprision" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">H3</cards>
+<action no="11" player="ordi22" type="5" sum="€0.02"/>
+<action no="12" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207970840"><general><startdate>2022-11-20 18:21:53</startdate>
+<players><player seat="1" name="clemestine" chips="€2.99" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.21" dealer="0" win="€0" bet="€0.04" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2" dealer="0" win="€0.21" bet="€0.08" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.53" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="ordi22" chips="€0.75" dealer="0" win="€0" bet="€0.04" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2.06" dealer="0" win="€0" bet="€0.06" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ordi22" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="ordi22">X X</cards>
+<cards type="Pocket" player="clemestine">C5 D6</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="hotelprision" type="3" sum="€0.02"/>
+<action no="5" player="Xavigates" type="23" sum="€0.04"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="ordi22" type="3" sum="€0.03"/>
+<action no="8" player="Vesuve78" type="3" sum="€0.02"/>
+<action no="9" player="hotelprision" type="3" sum="€0.02"/>
+</round>
+<round no="2"><cards type="Flop">S9 D3 H9</cards>
+<action no="10" player="ordi22" type="4" sum="€0"/>
+<action no="11" player="Vesuve78" type="4" sum="€0"/>
+<action no="12" player="hotelprision" type="4" sum="€0"/>
+<action no="13" player="Xavigates" type="5" sum="€0.02"/>
+<action no="14" player="ordi22" type="0" sum="€0"/>
+<action no="15" player="Vesuve78" type="3" sum="€0.02"/>
+<action no="16" player="hotelprision" type="0" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">CA</cards>
+<action no="17" player="Vesuve78" type="4" sum="€0"/>
+<action no="18" player="Xavigates" type="5" sum="€0.02"/>
+<action no="19" player="Vesuve78" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207972659"><general><startdate>2022-11-20 18:22:54</startdate>
+<players><player seat="3" name="hotelprision" chips="€0.17" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.13" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.53" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="ordi22" chips="€0.71" dealer="1" win="€0.11" bet="€0.06" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.99" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vesuve78" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">S2 C6</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="hotelprision">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="ordi22">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="hotelprision" type="3" sum="€0.02"/>
+<action no="4" player="Xavigates" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="ordi22" type="3" sum="€0.02"/>
+<action no="7" player="Vesuve78" type="0" sum="€0"/>
+<action no="8" player="clemestine" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">DQ H5 C7</cards>
+<action no="9" player="clemestine" type="4" sum="€0"/>
+<action no="10" player="hotelprision" type="4" sum="€0"/>
+<action no="11" player="ordi22" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">C10</cards>
+<action no="12" player="clemestine" type="4" sum="€0"/>
+<action no="13" player="hotelprision" type="4" sum="€0"/>
+<action no="14" player="ordi22" type="5" sum="€0.04"/>
+<action no="15" player="clemestine" type="0" sum="€0"/>
+<action no="16" player="hotelprision" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207973370"><general><startdate>2022-11-20 18:23:31</startdate>
+<players><player seat="5" name="Xavigates" chips="€2.13" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.53" dealer="0" win="€0.29" bet="€0.15" muck="0"/>
+<player seat="8" name="ordi22" chips="€0.76" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.97" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="3" name="hotelprision" chips="€0.15" dealer="0" win="€0" bet="€0.15" muck="0"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="hotelprision" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="fred1407">SA SQ</cards>
+<cards type="Pocket" player="ordi22">X X</cards>
+<cards type="Pocket" player="clemestine">C7 C6</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="hotelprision">D8 DA</cards>
+<action no="3" player="Xavigates" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="23" sum="€0.06"/>
+<action no="5" player="ordi22" type="0" sum="€0"/>
+<action no="6" player="Vesuve78" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="0" sum="€0"/>
+<action no="8" player="hotelprision" type="23" sum="€0.15"/>
+<action no="9" player="fred1407" type="3" sum="€0.09"/>
+</round>
+<round no="2"><cards type="Flop">CK S7 SK</cards>
+</round>
+<round no="3"><cards type="Turn">C9</cards>
+</round>
+<round no="4"><cards type="River">S3</cards>
+</round>
+</game>
+<game gamecode="6207974620"><general><startdate>2022-11-20 18:24:10</startdate>
+<players><player seat="8" name="ordi22" chips="€0.76" dealer="0" win="€0.09" bet="€0.06" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.96" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.13" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.67" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Xavigates" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="ordi22">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">C10 H4</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="ordi22" type="23" sum="€0.06"/>
+<action no="4" player="Vesuve78" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="Xavigates" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207978755"><general><startdate>2022-11-20 18:24:30</startdate>
+<players><player seat="1" name="clemestine" chips="€2.96" dealer="0" win="€0" bet="€0.53" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.12" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€1.65" dealer="0" win="€1.73" bet="€1.25" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">HK DA</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="clemestine" type="23" sum="€0.06"/>
+<action no="4" player="Xavigates" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="3" sum="€0.05"/>
+<action no="6" player="Vesuve78" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C2 S5 H8</cards>
+<action no="7" player="fred1407" type="4" sum="€0"/>
+<action no="8" player="clemestine" type="5" sum="€0.07"/>
+<action no="9" player="fred1407" type="23" sum="€0.20"/>
+<action no="10" player="clemestine" type="3" sum="€0.13"/>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+<action no="11" player="fred1407" type="5" sum="€0.27"/>
+<action no="12" player="clemestine" type="3" sum="€0.27"/>
+</round>
+<round no="4"><cards type="River">H5</cards>
+<action no="13" player="fred1407" type="5" sum="€0.72"/>
+<action no="14" player="clemestine" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207983654"><general><startdate>2022-11-20 18:26:04</startdate>
+<players><player seat="5" name="Xavigates" chips="€2.12" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.13" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.43" dealer="0" win="€0.03" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vesuve78" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">SA H6</cards>
+<action no="3" player="Xavigates" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="Vesuve78" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207983734"><general><startdate>2022-11-20 18:26:45</startdate>
+<players><player seat="6" name="fred1407" chips="€2.13" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.44" dealer="0" win="€0.09" bet="€0.05" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.12" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="Xavigates" type="2" sum="€0.02"/>
+<action no="3" player="sylvaind42" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="clemestine">HA S4</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="sylvaind42" type="4" sum="€0"/>
+<action no="6" player="Vesuve78" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="3" sum="€0.01"/>
+<action no="8" player="Xavigates" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">DJ C6 S6</cards>
+<action no="9" player="clemestine" type="5" sum="€0.03"/>
+<action no="10" player="Xavigates" type="0" sum="€0"/>
+<action no="11" player="sylvaind42" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207986547"><general><startdate>2022-11-20 18:27:34</startdate>
+<players><player seat="8" name="sylvaind42" chips="€0.98" dealer="0" win="€0" bet="€0.06" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.48" dealer="1" win="€0.21" bet="€0.13" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.10" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.13" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Xavigates" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="clemestine">D7 D3</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<action no="3" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="4" player="Vesuve78" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="23" sum="€0.06"/>
+<action no="6" player="Xavigates" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="sylvaind42" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">S4 D8 DA</cards>
+<action no="9" player="sylvaind42" type="4" sum="€0"/>
+<action no="10" player="clemestine" type="5" sum="€0.07"/>
+<action no="11" player="sylvaind42" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207986611"><general><startdate>2022-11-20 18:28:06</startdate>
+<players><player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.56" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.09" dealer="1" win="€0.15" bet="€0.08" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.11" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€0.92" dealer="0" win="€0" bet="€0.06" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="sylvaind42" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">H5 C3</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<action no="3" player="Vesuve78" type="0" sum="€0"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="Xavigates" type="23" sum="€0.04"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="sylvaind42" type="3" sum="€0.02"/>
+</round>
+<round no="2"><cards type="Flop">D7 S8 C8</cards>
+<action no="8" player="sylvaind42" type="4" sum="€0"/>
+<action no="9" player="Xavigates" type="5" sum="€0.02"/>
+<action no="10" player="sylvaind42" type="3" sum="€0.02"/>
+</round>
+<round no="3"><cards type="Turn">HK</cards>
+<action no="11" player="sylvaind42" type="4" sum="€0"/>
+<action no="12" player="Xavigates" type="5" sum="€0.02"/>
+<action no="13" player="sylvaind42" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207988357"><general><startdate>2022-11-20 18:28:58</startdate>
+<players><player seat="1" name="clemestine" chips="€2.56" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.16" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.10" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€0.86" dealer="0" win="€0.06" bet="€0.04" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sylvaind42" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="clemestine">C7 CJ</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="Xavigates" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="sylvaind42" type="3" sum="€0.01"/>
+<action no="7" player="Vesuve78" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">D6 HA H9</cards>
+<action no="8" player="sylvaind42" type="5" sum="€0.02"/>
+<action no="9" player="Vesuve78" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207988428"><general><startdate>2022-11-20 18:29:30</startdate>
+<players><player seat="5" name="Xavigates" chips="€2.16" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.10" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€0.88" dealer="1" win="€0" bet="€0.02" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.56" dealer="0" win="€0.08" bet="€0.05" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vesuve78" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">S4 HJ</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="Xavigates" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="6" player="Vesuve78" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C7 H2 DJ</cards>
+<action no="8" player="clemestine" type="5" sum="€0.03"/>
+<action no="9" player="sylvaind42" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207988496"><general><startdate>2022-11-20 18:30:09</startdate>
+<players><player seat="5" name="Xavigates" chips="€2.16" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.10" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€0.86" dealer="0" win="€0.16" bet="€0.10" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="1" win="€0" bet="€0.02" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.59" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="3" name="Aika210" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="Aika210" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">D3 DK</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="Aika210">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="Xavigates" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="6" player="Vesuve78" type="3" sum="€0.02"/>
+<action no="7" player="clemestine" type="3" sum="€0.01"/>
+<action no="8" player="Aika210" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">D8 S4 S5</cards>
+<action no="9" player="clemestine" type="4" sum="€0"/>
+<action no="10" player="Aika210" type="4" sum="€0"/>
+<action no="11" player="sylvaind42" type="5" sum="€0.08"/>
+<action no="12" player="Vesuve78" type="0" sum="€0"/>
+<action no="13" player="clemestine" type="0" sum="€0"/>
+<action no="14" player="Aika210" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207997366"><general><startdate>2022-11-20 18:31:10</startdate>
+<players><player seat="6" name="fred1407" chips="€2.10" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€0.92" dealer="0" win="€0.09" bet="€0.04" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.57" dealer="1" win="€0" bet="€0.02" muck="1"/>
+<player seat="3" name="Aika210" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.16" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Aika210" type="1" sum="€0.01"/>
+<action no="2" player="Xavigates" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">DJ H4</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="Aika210">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="5" player="Vesuve78" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="3" sum="€0.02"/>
+<action no="7" player="Aika210" type="0" sum="€0"/>
+<action no="8" player="Xavigates" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C10 D3 HQ</cards>
+<action no="9" player="Xavigates" type="4" sum="€0"/>
+<action no="10" player="sylvaind42" type="4" sum="€0"/>
+<action no="11" player="clemestine" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+<action no="12" player="Xavigates" type="4" sum="€0"/>
+<action no="13" player="sylvaind42" type="5" sum="€0.02"/>
+<action no="14" player="clemestine" type="0" sum="€0"/>
+<action no="15" player="Xavigates" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207999491"><general><startdate>2022-11-20 18:32:38</startdate>
+<players><player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.55" dealer="0" win="€0" bet="€0.12" muck="1"/>
+<player seat="3" name="Aika210" chips="€2" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.10" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€0.97" dealer="0" win="€0.49" bet="€0.37" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="sylvaind42" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="Aika210">X X</cards>
+<cards type="Pocket" player="clemestine">DK S9</cards>
+<action no="3" player="Vesuve78" type="0" sum="€0"/>
+<action no="4" player="clemestine" type="23" sum="€0.06"/>
+<action no="5" player="Aika210" type="0" sum="€0"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="sylvaind42" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">D8 H3 CQ</cards>
+<action no="8" player="sylvaind42" type="4" sum="€0"/>
+<action no="9" player="clemestine" type="5" sum="€0.06"/>
+<action no="10" player="sylvaind42" type="3" sum="€0.06"/>
+</round>
+<round no="3"><cards type="Turn">C7</cards>
+<action no="11" player="sylvaind42" type="4" sum="€0"/>
+<action no="12" player="clemestine" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">HJ</cards>
+<action no="13" player="sylvaind42" type="5" sum="€0.25"/>
+<action no="14" player="clemestine" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6207999622"><general><startdate>2022-11-20 18:33:41</startdate>
+<players><player seat="1" name="clemestine" chips="€2.43" dealer="0" win="€0.19" bet="€0.12" muck="1"/>
+<player seat="3" name="Aika210" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.09" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.09" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.06" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sylvaind42" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Aika210">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="clemestine">DQ C10</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="clemestine" type="23" sum="€0.06"/>
+<action no="4" player="Aika210" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="sylvaind42" type="0" sum="€0"/>
+<action no="7" player="Vesuve78" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">S10 HA S9</cards>
+<action no="8" player="Vesuve78" type="4" sum="€0"/>
+<action no="9" player="clemestine" type="5" sum="€0.06"/>
+<action no="10" player="Vesuve78" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208002415"><general><startdate>2022-11-20 18:34:26</startdate>
+<players><player seat="3" name="Aika210" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.09" dealer="0" win="€0.09" bet="€0.06" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.08" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.50" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vesuve78" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Aika210">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">HJ S10</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="Aika210" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="23" sum="€0.06"/>
+<action no="5" player="sylvaind42" type="0" sum="€0"/>
+<action no="6" player="Vesuve78" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208002452"><general><startdate>2022-11-20 18:34:46</startdate>
+<players><player seat="8" name="sylvaind42" chips="€1.08" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="1" win="€0" bet="€0.05" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.48" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.12" dealer="0" win="€0.18" bet="€0.12" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">D5 D8</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="sylvaind42" type="0" sum="€0"/>
+<action no="4" player="Vesuve78" type="23" sum="€0.05"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="fred1407" type="3" sum="€0.03"/>
+</round>
+<round no="2"><cards type="Flop">H4 C3 D4</cards>
+<action no="7" player="fred1407" type="5" sum="€0.07"/>
+<action no="8" player="Vesuve78" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208004226"><general><startdate>2022-11-20 18:35:24</startdate>
+<players><player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.47" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.18" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.08" dealer="0" win="€0.03" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="sylvaind42" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">S8 C5</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<action no="3" player="Vesuve78" type="0" sum="€0"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208004258"><general><startdate>2022-11-20 18:35:36</startdate>
+<players><player seat="1" name="clemestine" chips="€2.47" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.17" dealer="1" win="€0.09" bet="€0.06" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.09" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sylvaind42" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">SQ S6</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="23" sum="€0.06"/>
+<action no="5" player="sylvaind42" type="0" sum="€0"/>
+<action no="6" player="Vesuve78" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208004369"><general><startdate>2022-11-20 18:35:54</startdate>
+<players><player seat="6" name="fred1407" chips="€2.20" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.08" dealer="1" win="€0.29" bet="€0.22" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.47" dealer="0" win="€0" bet="€0.07" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vesuve78" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">S10 C7</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="5" player="Vesuve78" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">SK H9 D8</cards>
+<action no="7" player="clemestine" type="4" sum="€0"/>
+<action no="8" player="sylvaind42" type="5" sum="€0.05"/>
+<action no="9" player="clemestine" type="3" sum="€0.05"/>
+</round>
+<round no="3"><cards type="Turn">C2</cards>
+<action no="10" player="clemestine" type="4" sum="€0"/>
+<action no="11" player="sylvaind42" type="5" sum="€0.15"/>
+<action no="12" player="clemestine" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208004435"><general><startdate>2022-11-20 18:36:31</startdate>
+<players><player seat="6" name="fred1407" chips="€2.20" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.15" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.40" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="3" name="10062004" chips="€2" dealer="0" win="€0.16" bet="€0.12" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="10062004" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="clemestine">D6 SJ</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="5" player="Vesuve78" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="3" sum="€0.01"/>
+<action no="7" player="10062004" type="23" sum="€0.12"/>
+<action no="8" player="sylvaind42" type="0" sum="€0"/>
+<action no="9" player="clemestine" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208009628"><general><startdate>2022-11-20 18:37:15</startdate>
+<players><player seat="8" name="sylvaind42" chips="€1.13" dealer="0" win="€0" bet="€0.07" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.38" dealer="1" win="€0.32" bet="€0.18" muck="1"/>
+<player seat="3" name="10062004" chips="€2.04" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.20" dealer="0" win="€0" bet="€0.07" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="10062004" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="clemestine">HA C7</cards>
+<action no="3" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="4" player="Vesuve78" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="23" sum="€0.07"/>
+<action no="6" player="10062004" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="3" sum="€0.05"/>
+<action no="8" player="sylvaind42" type="3" sum="€0.05"/>
+</round>
+<round no="2"><cards type="Flop">DJ H2 C2</cards>
+<action no="9" player="fred1407" type="4" sum="€0"/>
+<action no="10" player="sylvaind42" type="4" sum="€0"/>
+<action no="11" player="clemestine" type="5" sum="€0.11"/>
+<action no="12" player="fred1407" type="0" sum="€0"/>
+<action no="13" player="sylvaind42" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208012346"><general><startdate>2022-11-20 18:38:05</startdate>
+<players><player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.52" dealer="0" win="€0.21" bet="€0.13" muck="1"/>
+<player seat="3" name="10062004" chips="€2.03" dealer="1" win="€0" bet="€0.06" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.13" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.06" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="sylvaind42" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="clemestine">DA D3</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<action no="3" player="Vesuve78" type="0" sum="€0"/>
+<action no="4" player="clemestine" type="23" sum="€0.06"/>
+<action no="5" player="10062004" type="3" sum="€0.06"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="sylvaind42" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C9 S10 D2</cards>
+<action no="8" player="clemestine" type="5" sum="€0.07"/>
+<action no="9" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208014321"><general><startdate>2022-11-20 18:38:42</startdate>
+<players><player seat="1" name="clemestine" chips="€2.60" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="10062004" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.12" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.04" dealer="0" win="€0.08" bet="€0.06" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sylvaind42" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">S9 D4</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="10062004" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="0" sum="€0"/>
+<action no="6" player="sylvaind42" type="3" sum="€0.01"/>
+<action no="7" player="Vesuve78" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">H9 S10 HA</cards>
+<action no="8" player="sylvaind42" type="4" sum="€0"/>
+<action no="9" player="Vesuve78" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+<action no="10" player="sylvaind42" type="5" sum="€0.04"/>
+<action no="11" player="Vesuve78" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208014401"><general><startdate>2022-11-20 18:39:30</startdate>
+<players><player seat="3" name="10062004" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.12" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.06" dealer="1" win="€0" bet="€0.02" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.60" dealer="0" win="€0.05" bet="€0.02" muck="0"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vesuve78" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="clemestine">HK S10</cards>
+<action no="3" player="10062004" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="6" player="Vesuve78" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">D5 S8 H4</cards>
+<action no="8" player="clemestine" type="4" sum="€0"/>
+<action no="9" player="sylvaind42" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">D8</cards>
+<action no="10" player="clemestine" type="4" sum="€0"/>
+<action no="11" player="sylvaind42" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">D3</cards>
+<action no="12" player="clemestine" type="4" sum="€0"/>
+<action no="13" player="sylvaind42" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208014479"><general><startdate>2022-11-20 18:40:15</startdate>
+<players><player seat="6" name="fred1407" chips="€2.12" dealer="0" win="€0.09" bet="€0.06" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.04" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.63" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="3" name="10062004" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="10062004" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="clemestine">HK C2</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<action no="3" player="fred1407" type="23" sum="€0.06"/>
+<action no="4" player="sylvaind42" type="0" sum="€0"/>
+<action no="5" player="Vesuve78" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="0" sum="€0"/>
+<action no="7" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208017341"><general><startdate>2022-11-20 18:40:55</startdate>
+<players><player seat="6" name="fred1407" chips="€2.15" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.04" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0.13" bet="€0.08" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.62" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="10062004" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.14" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="10062004" type="1" sum="€0.01"/>
+<action no="2" player="Xavigates" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">H8 SQ</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="5" player="Vesuve78" type="23" sum="€0.08"/>
+<action no="6" player="clemestine" type="0" sum="€0"/>
+<action no="7" player="10062004" type="0" sum="€0"/>
+<action no="8" player="Xavigates" type="0" sum="€0"/>
+<action no="9" player="sylvaind42" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208017420"><general><startdate>2022-11-20 18:41:48</startdate>
+<players><player seat="8" name="sylvaind42" chips="€1.02" dealer="0" win="€0" bet="€0.05" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2.05" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.62" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="10062004" chips="€2" dealer="1" win="€0" bet="€0.02" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.12" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.15" dealer="0" win="€0.13" bet="€0.05" muck="0"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Xavigates" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">H9 CJ</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="fred1407">HQ D10</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<action no="3" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="4" player="Vesuve78" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="10062004" type="3" sum="€0.02"/>
+<action no="7" player="Xavigates" type="0" sum="€0"/>
+<action no="8" player="fred1407" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">HJ D8 C9</cards>
+<action no="9" player="fred1407" type="4" sum="€0"/>
+<action no="10" player="sylvaind42" type="4" sum="€0"/>
+<action no="11" player="10062004" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">D9</cards>
+<action no="12" player="fred1407" type="5" sum="€0.03"/>
+<action no="13" player="sylvaind42" type="3" sum="€0.03"/>
+<action no="14" player="10062004" type="0" sum="€0"/>
+</round>
+<round no="4"><cards type="River">C8</cards>
+<action no="15" player="fred1407" type="4" sum="€0"/>
+<action no="16" player="sylvaind42" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208021455"><general><startdate>2022-11-20 18:43:21</startdate>
+<players><player seat="10" name="Vesuve78" chips="€2.05" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.62" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="10062004" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.11" dealer="1" win="€1.14" bet="€2.11" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.23" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€0.97" dealer="0" win="€1.82" bet="€0.97" muck="0"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="sylvaind42" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">S5 CQ</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="sylvaind42">S8 D8</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="Vesuve78" type="0" sum="€0"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="10062004" type="0" sum="€0"/>
+<action no="6" player="Xavigates" type="23" sum="€2.11"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="sylvaind42" type="7" sum="€0.95"/>
+</round>
+<round no="2"><cards type="Flop">HJ D2 D7</cards>
+</round>
+<round no="3"><cards type="Turn">S6</cards>
+</round>
+<round no="4"><cards type="River">H2</cards>
+</round>
+</game>
+<game gamecode="6208026449"><general><startdate>2022-11-20 18:44:15</startdate>
+<players><player seat="1" name="clemestine" chips="€2.62" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="10062004" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2" dealer="0" win="€0.08" bet="€0.02" muck="0"/>
+<player seat="6" name="fred1407" chips="€2.22" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.82" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2.05" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sylvaind42" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="clemestine">S8 C10</cards>
+<cards type="Pocket" player="Xavigates">S4 H4</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="10062004" type="3" sum="€0.02"/>
+<action no="5" player="Xavigates" type="3" sum="€0.02"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="sylvaind42" type="3" sum="€0.01"/>
+<action no="8" player="Vesuve78" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">H6 HJ C8</cards>
+<action no="9" player="sylvaind42" type="4" sum="€0"/>
+<action no="10" player="Vesuve78" type="4" sum="€0"/>
+<action no="11" player="10062004" type="4" sum="€0"/>
+<action no="12" player="Xavigates" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">HQ</cards>
+<action no="13" player="sylvaind42" type="4" sum="€0"/>
+<action no="14" player="Vesuve78" type="4" sum="€0"/>
+<action no="15" player="10062004" type="4" sum="€0"/>
+<action no="16" player="Xavigates" type="4" sum="€0"/>
+</round>
+<round no="4"><cards type="River">SQ</cards>
+<action no="17" player="sylvaind42" type="4" sum="€0"/>
+<action no="18" player="Vesuve78" type="4" sum="€0"/>
+<action no="19" player="10062004" type="4" sum="€0"/>
+<action no="20" player="Xavigates" type="4" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208029606"><general><startdate>2022-11-20 18:46:51</startdate>
+<players><player seat="6" name="fred1407" chips="€2.22" dealer="0" win="€0.09" bet="€0.06" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2.03" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.62" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="3" name="10062004" chips="€2" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="10062004" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="clemestine">D8 S2</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<action no="3" player="fred1407" type="23" sum="€0.06"/>
+<action no="4" player="Vesuve78" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208029650"><general><startdate>2022-11-20 18:47:18</startdate>
+<players><player seat="6" name="fred1407" chips="€2.25" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2.03" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.61" dealer="1" win="€0.09" bet="€0.06" muck="1"/>
+<player seat="3" name="10062004" chips="€2" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.06" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="10062004" type="1" sum="€0.01"/>
+<action no="2" player="Xavigates" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">D5 DQ</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="Vesuve78" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="23" sum="€0.06"/>
+<action no="6" player="10062004" type="0" sum="€0"/>
+<action no="7" player="Xavigates" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208031963"><general><startdate>2022-11-20 18:47:52</startdate>
+<players><player seat="10" name="Vesuve78" chips="€2.03" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.64" dealer="0" win="€0" bet="€0.06" muck="1"/>
+<player seat="3" name="10062004" chips="€2" dealer="1" win="€0.30" bet="€0.21" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.04" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.25" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Xavigates" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">S10 HJ</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<action no="3" player="Vesuve78" type="0" sum="€0"/>
+<action no="4" player="clemestine" type="23" sum="€0.06"/>
+<action no="5" player="10062004" type="23" sum="€0.21"/>
+<action no="6" player="Xavigates" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="clemestine" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208032030"><general><startdate>2022-11-20 18:48:28</startdate>
+<players><player seat="10" name="Vesuve78" chips="€2.03" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.58" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="10062004" chips="€2.09" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.03" dealer="1" win="€0.09" bet="€0.06" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.23" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.80" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="sylvaind42" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">C3 H10</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<action no="3" player="Vesuve78" type="0" sum="€0"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="10062004" type="0" sum="€0"/>
+<action no="6" player="Xavigates" type="23" sum="€0.06"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="sylvaind42" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208033667"><general><startdate>2022-11-20 18:49:17</startdate>
+<players><player seat="1" name="clemestine" chips="€2.58" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="10062004" chips="€2.09" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.06" dealer="0" win="€0.29" bet="€0.21" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.22" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.78" dealer="0" win="€0" bet="€0.07" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2.03" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sylvaind42" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">S6 D10</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="10062004" type="0" sum="€0"/>
+<action no="5" player="Xavigates" type="23" sum="€0.07"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="sylvaind42" type="3" sum="€0.06"/>
+<action no="8" player="Vesuve78" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">DQ H6 HQ</cards>
+<action no="9" player="sylvaind42" type="4" sum="€0"/>
+<action no="10" player="Xavigates" type="5" sum="€0.14"/>
+<action no="11" player="sylvaind42" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208038992"><general><startdate>2022-11-20 18:50:02</startdate>
+<players><player seat="3" name="10062004" chips="€2.09" dealer="0" win="€0" bet="€0.06" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.14" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.22" dealer="0" win="€0.16" bet="€0.08" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.71" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2.01" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.58" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Vesuve78" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="clemestine">S6 S2</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<action no="3" player="10062004" type="23" sum="€0.06"/>
+<action no="4" player="Xavigates" type="0" sum="€0"/>
+<action no="5" player="fred1407" type="3" sum="€0.06"/>
+<action no="6" player="sylvaind42" type="0" sum="€0"/>
+<action no="7" player="Vesuve78" type="0" sum="€0"/>
+<action no="8" player="clemestine" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">SA CK D6</cards>
+<action no="9" player="10062004" type="4" sum="€0"/>
+<action no="10" player="fred1407" type="5" sum="€0.02"/>
+<action no="11" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208040735"><general><startdate>2022-11-20 18:50:57</startdate>
+<players><player seat="5" name="Xavigates" chips="€2.14" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.30" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.71" dealer="0" win="€0.10" bet="€0.07" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.56" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="3" name="10062004" chips="€2.03" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="10062004" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="clemestine">D10 H3</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<action no="3" player="Xavigates" type="0" sum="€0"/>
+<action no="4" player="fred1407" type="0" sum="€0"/>
+<action no="5" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="6" player="Vesuve78" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="0" sum="€0"/>
+<action no="8" player="10062004" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">D8 C5 C6</cards>
+<action no="9" player="10062004" type="4" sum="€0"/>
+<action no="10" player="sylvaind42" type="5" sum="€0.05"/>
+<action no="11" player="10062004" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208040828"><general><startdate>2022-11-20 18:51:43</startdate>
+<players><player seat="6" name="fred1407" chips="€2.30" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.74" dealer="0" win="€0" bet="€0.06" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.55" dealer="1" win="€0.21" bet="€0.13" muck="1"/>
+<player seat="3" name="10062004" chips="€2.01" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.14" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="10062004" type="1" sum="€0.01"/>
+<action no="2" player="Xavigates" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="clemestine">C7 HK</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="fred1407" type="0" sum="€0"/>
+<action no="4" player="sylvaind42" type="3" sum="€0.02"/>
+<action no="5" player="Vesuve78" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="23" sum="€0.06"/>
+<action no="7" player="10062004" type="0" sum="€0"/>
+<action no="8" player="Xavigates" type="0" sum="€0"/>
+<action no="9" player="sylvaind42" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">H2 S4 S8</cards>
+<action no="10" player="sylvaind42" type="4" sum="€0"/>
+<action no="11" player="clemestine" type="5" sum="€0.07"/>
+<action no="12" player="sylvaind42" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208043527"><general><startdate>2022-11-20 18:52:43</startdate>
+<players><player seat="8" name="sylvaind42" chips="€1.68" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.63" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="10062004" chips="€2" dealer="1" win="€0.09" bet="€0.06" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.12" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.30" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Xavigates" type="1" sum="€0.01"/>
+<action no="2" player="fred1407" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="clemestine">H8 C6</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="sylvaind42" type="0" sum="€0"/>
+<action no="4" player="Vesuve78" type="0" sum="€0"/>
+<action no="5" player="clemestine" type="0" sum="€0"/>
+<action no="6" player="10062004" type="23" sum="€0.06"/>
+<action no="7" player="Xavigates" type="0" sum="€0"/>
+<action no="8" player="fred1407" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208043573"><general><startdate>2022-11-20 18:53:14</startdate>
+<players><player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="clemestine" chips="€2.63" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="10062004" chips="€2.03" dealer="0" win="€0.19" bet="€0.12" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.11" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.28" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.68" dealer="0" win="€0" bet="€0.06" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="fred1407" type="1" sum="€0.01"/>
+<action no="2" player="sylvaind42" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="clemestine">HK D8</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<action no="3" player="Vesuve78" type="0" sum="€0"/>
+<action no="4" player="clemestine" type="0" sum="€0"/>
+<action no="5" player="10062004" type="23" sum="€0.06"/>
+<action no="6" player="Xavigates" type="0" sum="€0"/>
+<action no="7" player="fred1407" type="0" sum="€0"/>
+<action no="8" player="sylvaind42" type="3" sum="€0.04"/>
+</round>
+<round no="2"><cards type="Flop">SJ H2 S2</cards>
+<action no="9" player="sylvaind42" type="4" sum="€0"/>
+<action no="10" player="10062004" type="5" sum="€0.06"/>
+<action no="11" player="sylvaind42" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6208044749"><general><startdate>2022-11-20 18:54:00</startdate>
+<players><player seat="1" name="clemestine" chips="€2.63" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="10062004" chips="€2.10" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="5" name="Xavigates" chips="€2.11" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="fred1407" chips="€2.27" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="sylvaind42" chips="€1.62" dealer="0" win="€0.16" bet="€0.12" muck="1"/>
+<player seat="10" name="Vesuve78" chips="€2" dealer="0" win="€0" bet="€0.04" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="sylvaind42" type="1" sum="€0.01"/>
+<action no="2" player="Vesuve78" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">D2 S6</cards>
+<cards type="Pocket" player="10062004">X X</cards>
+<cards type="Pocket" player="Xavigates">X X</cards>
+<cards type="Pocket" player="Vesuve78">X X</cards>
+<cards type="Pocket" player="fred1407">X X</cards>
+<cards type="Pocket" player="sylvaind42">X X</cards>
+<action no="3" player="clemestine" type="0" sum="€0"/>
+<action no="4" player="10062004" type="0" sum="€0"/>
+<action no="5" player="Xavigates" type="0" sum="€0"/>
+<action no="6" player="fred1407" type="0" sum="€0"/>
+<action no="7" player="sylvaind42" type="3" sum="€0.01"/>
+<action no="8" player="Vesuve78" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C7 C4 D9</cards>
+<action no="9" player="sylvaind42" type="4" sum="€0"/>
+<action no="10" player="Vesuve78" type="4" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">S8</cards>
+<action no="11" player="sylvaind42" type="4" sum="€0"/>
+<action no="12" player="Vesuve78" type="5" sum="€0.02"/>
+<action no="13" player="sylvaind42" type="3" sum="€0.02"/>
+</round>
+<round no="4"><cards type="River">CK</cards>
+<action no="14" player="sylvaind42" type="5" sum="€0.08"/>
+<action no="15" player="Vesuve78" type="0" sum="€0"/>
+</round>
+</game>
+</session>

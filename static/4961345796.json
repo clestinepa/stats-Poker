@@ -1,0 +1,1250 @@
+{
+  "session": {
+    "-sessioncode": "4961345796",
+    "general": {
+      "mode": "real",
+      "gametype": "Holdem NL €0.01/€0.02",
+      "tablename": "Magny-Cours - SHORT 0.20€ I, 636075037",
+      "tablecurrency": "EUR",
+      "currency": "EUR",
+      "nickname": "clemestine",
+      "gamecount": "6",
+      "startdate": "2022-11-19 17:08:42",
+      "bets": "€0.47",
+      "wins": "€0.27"
+    },
+    "game": [
+      {
+        "-gamecode": "6205958972",
+        "general": {
+          "startdate": "2022-11-19 18:09:02",
+          "players": {
+            "player": [
+              {
+                "-seat": "1",
+                "-name": "onspot",
+                "-chips": "€0.68",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "5",
+                "-name": "frenchguy",
+                "-chips": "€0.43",
+                "-dealer": "1",
+                "-win": "€0",
+                "-bet": "€0",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "8",
+                "-name": "ANGELOJOE2412",
+                "-chips": "€3.22",
+                "-dealer": "0",
+                "-win": "€0.06",
+                "-bet": "€0.04",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "10",
+                "-name": "danzoc76",
+                "-chips": "€0.16",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.02",
+                "-muck": "1",
+                "-self-closing": "true"
+              }
+            ]
+          }
+        },
+        "round": [
+          {
+            "-no": "0",
+            "action": [
+              {
+                "-no": "1",
+                "-player": "ANGELOJOE2412",
+                "-type": "1",
+                "-sum": "€0.01",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "2",
+                "-player": "danzoc76",
+                "-type": "2",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "1",
+            "cards": [
+              {
+                "-type": "Pocket",
+                "-player": "danzoc76",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "ANGELOJOE2412",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "onspot",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "frenchguy",
+                "#text": "X X"
+              }
+            ],
+            "action": [
+              {
+                "-no": "3",
+                "-player": "onspot",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "4",
+                "-player": "frenchguy",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "5",
+                "-player": "ANGELOJOE2412",
+                "-type": "3",
+                "-sum": "€0.01",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "6",
+                "-player": "danzoc76",
+                "-type": "4",
+                "-sum": "€0",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "2",
+            "cards": {
+              "-type": "Flop",
+              "#text": "H2 CJ DA"
+            },
+            "action": [
+              {
+                "-no": "7",
+                "-player": "ANGELOJOE2412",
+                "-type": "5",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "8",
+                "-player": "danzoc76",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "-gamecode": "6205959121",
+        "general": {
+          "startdate": "2022-11-19 18:09:24",
+          "players": {
+            "player": [
+              {
+                "-seat": "5",
+                "-name": "frenchguy",
+                "-chips": "€0.43",
+                "-dealer": "0",
+                "-win": "€0.44",
+                "-bet": "€0.20",
+                "-muck": "0",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "6",
+                "-name": "Kifran65",
+                "-chips": "€0.20",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.20",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "8",
+                "-name": "ANGELOJOE2412",
+                "-chips": "€3.24",
+                "-dealer": "1",
+                "-win": "€0",
+                "-bet": "€0.04",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "10",
+                "-name": "danzoc76",
+                "-chips": "€0.14",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.01",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "1",
+                "-name": "onspot",
+                "-chips": "€0.68",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.02",
+                "-muck": "1",
+                "-self-closing": "true"
+              }
+            ]
+          }
+        },
+        "round": [
+          {
+            "-no": "0",
+            "action": [
+              {
+                "-no": "1",
+                "-player": "danzoc76",
+                "-type": "1",
+                "-sum": "€0.01",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "2",
+                "-player": "onspot",
+                "-type": "2",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "3",
+                "-player": "Kifran65",
+                "-type": "1",
+                "-sum": "€0.01",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "1",
+            "cards": [
+              {
+                "-type": "Pocket",
+                "-player": "danzoc76",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "frenchguy",
+                "#text": "D10 S10"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "Kifran65",
+                "#text": "D6 H4"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "onspot",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "ANGELOJOE2412",
+                "#text": "X X"
+              }
+            ],
+            "action": [
+              {
+                "-no": "4",
+                "-player": "frenchguy",
+                "-type": "23",
+                "-sum": "€0.04",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "5",
+                "-player": "Kifran65",
+                "-type": "3",
+                "-sum": "€0.03",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "6",
+                "-player": "ANGELOJOE2412",
+                "-type": "3",
+                "-sum": "€0.04",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "7",
+                "-player": "danzoc76",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "8",
+                "-player": "onspot",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "2",
+            "cards": {
+              "-type": "Flop",
+              "#text": "C6 D8 H2"
+            },
+            "action": [
+              {
+                "-no": "9",
+                "-player": "frenchguy",
+                "-type": "5",
+                "-sum": "€0.16",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "10",
+                "-player": "Kifran65",
+                "-type": "7",
+                "-sum": "€0.16",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "11",
+                "-player": "ANGELOJOE2412",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "3",
+            "cards": {
+              "-type": "Turn",
+              "#text": "CQ"
+            }
+          },
+          {
+            "-no": "4",
+            "cards": {
+              "-type": "River",
+              "#text": "HK"
+            }
+          }
+        ]
+      },
+      {
+        "-gamecode": "6205961632",
+        "general": {
+          "startdate": "2022-11-19 18:10:14",
+          "players": {
+            "player": [
+              {
+                "-seat": "5",
+                "-name": "frenchguy",
+                "-chips": "€0.67",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.02",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "8",
+                "-name": "ANGELOJOE2412",
+                "-chips": "€3.20",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.08",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "10",
+                "-name": "danzoc76",
+                "-chips": "€0.13",
+                "-dealer": "1",
+                "-win": "€0",
+                "-bet": "€0",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "1",
+                "-name": "onspot",
+                "-chips": "€0.66",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.01",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "3",
+                "-name": "clemestine",
+                "-chips": "€0.20",
+                "-dealer": "0",
+                "-win": "€0.27",
+                "-bet": "€0.17",
+                "-muck": "1",
+                "-self-closing": "true"
+              }
+            ]
+          }
+        },
+        "round": [
+          {
+            "-no": "0",
+            "action": [
+              {
+                "-no": "1",
+                "-player": "onspot",
+                "-type": "1",
+                "-sum": "€0.01",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "2",
+                "-player": "clemestine",
+                "-type": "2",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "1",
+            "cards": [
+              {
+                "-type": "Pocket",
+                "-player": "danzoc76",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "clemestine",
+                "#text": "H10 CQ"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "onspot",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "frenchguy",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "ANGELOJOE2412",
+                "#text": "X X"
+              }
+            ],
+            "action": [
+              {
+                "-no": "3",
+                "-player": "frenchguy",
+                "-type": "3",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "4",
+                "-player": "ANGELOJOE2412",
+                "-type": "3",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "5",
+                "-player": "danzoc76",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "6",
+                "-player": "onspot",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "7",
+                "-player": "clemestine",
+                "-type": "23",
+                "-sum": "€0.08",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "8",
+                "-player": "frenchguy",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "9",
+                "-player": "ANGELOJOE2412",
+                "-type": "3",
+                "-sum": "€0.06",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "2",
+            "cards": {
+              "-type": "Flop",
+              "#text": "S2 CA D7"
+            },
+            "action": [
+              {
+                "-no": "10",
+                "-player": "clemestine",
+                "-type": "5",
+                "-sum": "€0.09",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "11",
+                "-player": "ANGELOJOE2412",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "-gamecode": "6205963096",
+        "general": {
+          "startdate": "2022-11-19 18:10:55",
+          "players": {
+            "player": [
+              {
+                "-seat": "6",
+                "-name": "Kifran65",
+                "-chips": "€0.20",
+                "-dealer": "0",
+                "-win": "€0.42",
+                "-bet": "€0.20",
+                "-muck": "0",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "8",
+                "-name": "ANGELOJOE2412",
+                "-chips": "€3.12",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.04",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "10",
+                "-name": "danzoc76",
+                "-chips": "€0.13",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "1",
+                "-name": "onspot",
+                "-chips": "€0.65",
+                "-dealer": "1",
+                "-win": "€0",
+                "-bet": "€0",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "3",
+                "-name": "clemestine",
+                "-chips": "€0.30",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.01",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "5",
+                "-name": "frenchguy",
+                "-chips": "€0.65",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.20",
+                "-muck": "1",
+                "-self-closing": "true"
+              }
+            ]
+          }
+        },
+        "round": [
+          {
+            "-no": "0",
+            "action": [
+              {
+                "-no": "1",
+                "-player": "clemestine",
+                "-type": "1",
+                "-sum": "€0.01",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "2",
+                "-player": "frenchguy",
+                "-type": "2",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "1",
+            "cards": [
+              {
+                "-type": "Pocket",
+                "-player": "clemestine",
+                "#text": "H3 D8"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "danzoc76",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "ANGELOJOE2412",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "onspot",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "frenchguy",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "Kifran65",
+                "#text": "C7 SA"
+              }
+            ],
+            "action": [
+              {
+                "-no": "3",
+                "-player": "Kifran65",
+                "-type": "3",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "4",
+                "-player": "ANGELOJOE2412",
+                "-type": "23",
+                "-sum": "€0.04",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "5",
+                "-player": "danzoc76",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "6",
+                "-player": "onspot",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "7",
+                "-player": "clemestine",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "8",
+                "-player": "frenchguy",
+                "-type": "23",
+                "-sum": "€0.18",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "9",
+                "-player": "Kifran65",
+                "-type": "7",
+                "-sum": "€0.18",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "10",
+                "-player": "ANGELOJOE2412",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "11",
+                "-player": "frenchguy",
+                "-type": "3",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "2",
+            "cards": {
+              "-type": "Flop",
+              "#text": "H8 H7 CQ"
+            }
+          },
+          {
+            "-no": "3",
+            "cards": {
+              "-type": "Turn",
+              "#text": "H6"
+            }
+          },
+          {
+            "-no": "4",
+            "cards": {
+              "-type": "River",
+              "#text": "S10"
+            }
+          }
+        ]
+      },
+      {
+        "-gamecode": "6205963153",
+        "general": {
+          "startdate": "2022-11-19 18:11:32",
+          "players": {
+            "player": [
+              {
+                "-seat": "8",
+                "-name": "ANGELOJOE2412",
+                "-chips": "€3.08",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.04",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "10",
+                "-name": "danzoc76",
+                "-chips": "€0.13",
+                "-dealer": "0",
+                "-win": "€0.28",
+                "-bet": "€0.13",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "1",
+                "-name": "onspot",
+                "-chips": "€0.65",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "3",
+                "-name": "clemestine",
+                "-chips": "€0.29",
+                "-dealer": "1",
+                "-win": "€0",
+                "-bet": "€0",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "5",
+                "-name": "frenchguy",
+                "-chips": "€0.45",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.08",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "6",
+                "-name": "Kifran65",
+                "-chips": "€0.42",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.04",
+                "-muck": "1",
+                "-self-closing": "true"
+              }
+            ]
+          }
+        },
+        "round": [
+          {
+            "-no": "0",
+            "action": [
+              {
+                "-no": "1",
+                "-player": "frenchguy",
+                "-type": "1",
+                "-sum": "€0.01",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "2",
+                "-player": "Kifran65",
+                "-type": "2",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "1",
+            "cards": [
+              {
+                "-type": "Pocket",
+                "-player": "ANGELOJOE2412",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "danzoc76",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "frenchguy",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "clemestine",
+                "#text": "SQ D8"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "Kifran65",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "onspot",
+                "#text": "X X"
+              }
+            ],
+            "action": [
+              {
+                "-no": "3",
+                "-player": "ANGELOJOE2412",
+                "-type": "3",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "4",
+                "-player": "danzoc76",
+                "-type": "3",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "5",
+                "-player": "onspot",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "6",
+                "-player": "clemestine",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "7",
+                "-player": "frenchguy",
+                "-type": "23",
+                "-sum": "€0.04",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "8",
+                "-player": "Kifran65",
+                "-type": "3",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "9",
+                "-player": "ANGELOJOE2412",
+                "-type": "3",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "10",
+                "-player": "danzoc76",
+                "-type": "3",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "2",
+            "cards": {
+              "-type": "Flop",
+              "#text": "D4 D7 D5"
+            },
+            "action": [
+              {
+                "-no": "11",
+                "-player": "frenchguy",
+                "-type": "5",
+                "-sum": "€0.04",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "12",
+                "-player": "Kifran65",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "13",
+                "-player": "ANGELOJOE2412",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "14",
+                "-player": "danzoc76",
+                "-type": "23",
+                "-sum": "€0.09",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "15",
+                "-player": "frenchguy",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "-gamecode": "6205966860",
+        "general": {
+          "startdate": "2022-11-19 18:12:46",
+          "players": {
+            "player": [
+              {
+                "-seat": "10",
+                "-name": "danzoc76",
+                "-chips": "€0.28",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "1",
+                "-name": "onspot",
+                "-chips": "€0.65",
+                "-dealer": "0",
+                "-win": "€0.67",
+                "-bet": "€0.29",
+                "-muck": "0",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "3",
+                "-name": "clemestine",
+                "-chips": "€0.29",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.29",
+                "-muck": "0",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "5",
+                "-name": "frenchguy",
+                "-chips": "€0.37",
+                "-dealer": "1",
+                "-win": "€0",
+                "-bet": "€0",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "6",
+                "-name": "Kifran65",
+                "-chips": "€0.38",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.01",
+                "-muck": "1",
+                "-self-closing": "true"
+              },
+              {
+                "-seat": "8",
+                "-name": "ANGELOJOE2412",
+                "-chips": "€3.04",
+                "-dealer": "0",
+                "-win": "€0",
+                "-bet": "€0.12",
+                "-muck": "1",
+                "-self-closing": "true"
+              }
+            ]
+          }
+        },
+        "round": [
+          {
+            "-no": "0",
+            "action": [
+              {
+                "-no": "1",
+                "-player": "Kifran65",
+                "-type": "1",
+                "-sum": "€0.01",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "2",
+                "-player": "ANGELOJOE2412",
+                "-type": "2",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "1",
+            "cards": [
+              {
+                "-type": "Pocket",
+                "-player": "Kifran65",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "ANGELOJOE2412",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "clemestine",
+                "#text": "D8 C8"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "onspot",
+                "#text": "D10 HQ"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "frenchguy",
+                "#text": "X X"
+              },
+              {
+                "-type": "Pocket",
+                "-player": "danzoc76",
+                "#text": "X X"
+              }
+            ],
+            "action": [
+              {
+                "-no": "3",
+                "-player": "danzoc76",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "4",
+                "-player": "onspot",
+                "-type": "3",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "5",
+                "-player": "clemestine",
+                "-type": "23",
+                "-sum": "€0.08",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "6",
+                "-player": "frenchguy",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "7",
+                "-player": "Kifran65",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "8",
+                "-player": "ANGELOJOE2412",
+                "-type": "3",
+                "-sum": "€0.06",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "9",
+                "-player": "onspot",
+                "-type": "3",
+                "-sum": "€0.06",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "2",
+            "cards": {
+              "-type": "Flop",
+              "#text": "S4 C10 D7"
+            },
+            "action": [
+              {
+                "-no": "10",
+                "-player": "ANGELOJOE2412",
+                "-type": "5",
+                "-sum": "€0.04",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "11",
+                "-player": "onspot",
+                "-type": "3",
+                "-sum": "€0.04",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "12",
+                "-player": "clemestine",
+                "-type": "3",
+                "-sum": "€0.04",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "3",
+            "cards": {
+              "-type": "Turn",
+              "#text": "C5"
+            },
+            "action": [
+              {
+                "-no": "13",
+                "-player": "ANGELOJOE2412",
+                "-type": "4",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "14",
+                "-player": "onspot",
+                "-type": "5",
+                "-sum": "€0.02",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "15",
+                "-player": "clemestine",
+                "-type": "23",
+                "-sum": "€0.17",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "16",
+                "-player": "ANGELOJOE2412",
+                "-type": "0",
+                "-sum": "€0",
+                "-self-closing": "true"
+              },
+              {
+                "-no": "17",
+                "-player": "onspot",
+                "-type": "3",
+                "-sum": "€0.15",
+                "-self-closing": "true"
+              }
+            ]
+          },
+          {
+            "-no": "4",
+            "cards": {
+              "-type": "River",
+              "#text": "H7"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

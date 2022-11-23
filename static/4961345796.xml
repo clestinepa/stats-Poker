@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session sessioncode="4961345796">
+<general><mode>real</mode>
+<gametype>Holdem NL €0.01/€0.02</gametype>
+<tablename>Magny-Cours - SHORT 0.20€ I, 636075037</tablename>
+<tablecurrency>EUR</tablecurrency>
+<currency>EUR</currency>
+<nickname>clemestine</nickname>
+<gamecount>6</gamecount>
+<startdate>2022-11-19 17:08:42</startdate>
+<bets>€0.47</bets>
+<wins>€0.27</wins>
+</general>
+<game gamecode="6205958972"><general><startdate>2022-11-19 18:09:02</startdate>
+<players><player seat="1" name="onspot" chips="€0.68" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="5" name="frenchguy" chips="€0.43" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="8" name="ANGELOJOE2412" chips="€3.22" dealer="0" win="€0.06" bet="€0.04" muck="1"/>
+<player seat="10" name="danzoc76" chips="€0.16" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="ANGELOJOE2412" type="1" sum="€0.01"/>
+<action no="2" player="danzoc76" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="danzoc76">X X</cards>
+<cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<cards type="Pocket" player="onspot">X X</cards>
+<cards type="Pocket" player="frenchguy">X X</cards>
+<action no="3" player="onspot" type="0" sum="€0"/>
+<action no="4" player="frenchguy" type="0" sum="€0"/>
+<action no="5" player="ANGELOJOE2412" type="3" sum="€0.01"/>
+<action no="6" player="danzoc76" type="4" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">H2 CJ DA</cards>
+<action no="7" player="ANGELOJOE2412" type="5" sum="€0.02"/>
+<action no="8" player="danzoc76" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6205959121"><general><startdate>2022-11-19 18:09:24</startdate>
+<players><player seat="5" name="frenchguy" chips="€0.43" dealer="0" win="€0.44" bet="€0.20" muck="0"/>
+<player seat="6" name="Kifran65" chips="€0.20" dealer="0" win="€0" bet="€0.20" muck="1"/>
+<player seat="8" name="ANGELOJOE2412" chips="€3.24" dealer="1" win="€0" bet="€0.04" muck="1"/>
+<player seat="10" name="danzoc76" chips="€0.14" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="1" name="onspot" chips="€0.68" dealer="0" win="€0" bet="€0.02" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="danzoc76" type="1" sum="€0.01"/>
+<action no="2" player="onspot" type="2" sum="€0.02"/>
+<action no="3" player="Kifran65" type="1" sum="€0.01"/>
+</round>
+<round no="1"><cards type="Pocket" player="danzoc76">X X</cards>
+<cards type="Pocket" player="frenchguy">D10 S10</cards>
+<cards type="Pocket" player="Kifran65">D6 H4</cards>
+<cards type="Pocket" player="onspot">X X</cards>
+<cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<action no="4" player="frenchguy" type="23" sum="€0.04"/>
+<action no="5" player="Kifran65" type="3" sum="€0.03"/>
+<action no="6" player="ANGELOJOE2412" type="3" sum="€0.04"/>
+<action no="7" player="danzoc76" type="0" sum="€0"/>
+<action no="8" player="onspot" type="0" sum="€0"/>
+</round>
+<round no="2"><cards type="Flop">C6 D8 H2</cards>
+<action no="9" player="frenchguy" type="5" sum="€0.16"/>
+<action no="10" player="Kifran65" type="7" sum="€0.16"/>
+<action no="11" player="ANGELOJOE2412" type="0" sum="€0"/>
+</round>
+<round no="3"><cards type="Turn">CQ</cards>
+</round>
+<round no="4"><cards type="River">HK</cards>
+</round>
+</game>
+<game gamecode="6205961632"><general><startdate>2022-11-19 18:10:14</startdate>
+<players><player seat="5" name="frenchguy" chips="€0.67" dealer="0" win="€0" bet="€0.02" muck="1"/>
+<player seat="8" name="ANGELOJOE2412" chips="€3.20" dealer="0" win="€0" bet="€0.08" muck="1"/>
+<player seat="10" name="danzoc76" chips="€0.13" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="onspot" chips="€0.66" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="3" name="clemestine" chips="€0.20" dealer="0" win="€0.27" bet="€0.17" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="onspot" type="1" sum="€0.01"/>
+<action no="2" player="clemestine" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="danzoc76">X X</cards>
+<cards type="Pocket" player="clemestine">H10 CQ</cards>
+<cards type="Pocket" player="onspot">X X</cards>
+<cards type="Pocket" player="frenchguy">X X</cards>
+<cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<action no="3" player="frenchguy" type="3" sum="€0.02"/>
+<action no="4" player="ANGELOJOE2412" type="3" sum="€0.02"/>
+<action no="5" player="danzoc76" type="0" sum="€0"/>
+<action no="6" player="onspot" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="23" sum="€0.08"/>
+<action no="8" player="frenchguy" type="0" sum="€0"/>
+<action no="9" player="ANGELOJOE2412" type="3" sum="€0.06"/>
+</round>
+<round no="2"><cards type="Flop">S2 CA D7</cards>
+<action no="10" player="clemestine" type="5" sum="€0.09"/>
+<action no="11" player="ANGELOJOE2412" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6205963096"><general><startdate>2022-11-19 18:10:55</startdate>
+<players><player seat="6" name="Kifran65" chips="€0.20" dealer="0" win="€0.42" bet="€0.20" muck="0"/>
+<player seat="8" name="ANGELOJOE2412" chips="€3.12" dealer="0" win="€0" bet="€0.04" muck="1"/>
+<player seat="10" name="danzoc76" chips="€0.13" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="onspot" chips="€0.65" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="clemestine" chips="€0.30" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="5" name="frenchguy" chips="€0.65" dealer="0" win="€0" bet="€0.20" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="clemestine" type="1" sum="€0.01"/>
+<action no="2" player="frenchguy" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="clemestine">H3 D8</cards>
+<cards type="Pocket" player="danzoc76">X X</cards>
+<cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<cards type="Pocket" player="onspot">X X</cards>
+<cards type="Pocket" player="frenchguy">X X</cards>
+<cards type="Pocket" player="Kifran65">C7 SA</cards>
+<action no="3" player="Kifran65" type="3" sum="€0.02"/>
+<action no="4" player="ANGELOJOE2412" type="23" sum="€0.04"/>
+<action no="5" player="danzoc76" type="0" sum="€0"/>
+<action no="6" player="onspot" type="0" sum="€0"/>
+<action no="7" player="clemestine" type="0" sum="€0"/>
+<action no="8" player="frenchguy" type="23" sum="€0.18"/>
+<action no="9" player="Kifran65" type="7" sum="€0.18"/>
+<action no="10" player="ANGELOJOE2412" type="0" sum="€0"/>
+<action no="11" player="frenchguy" type="3" sum="€0.02"/>
+</round>
+<round no="2"><cards type="Flop">H8 H7 CQ</cards>
+</round>
+<round no="3"><cards type="Turn">H6</cards>
+</round>
+<round no="4"><cards type="River">S10</cards>
+</round>
+</game>
+<game gamecode="6205963153"><general><startdate>2022-11-19 18:11:32</startdate>
+<players><player seat="8" name="ANGELOJOE2412" chips="€3.08" dealer="0" win="€0" bet="€0.04" muck="1"/>
+<player seat="10" name="danzoc76" chips="€0.13" dealer="0" win="€0.28" bet="€0.13" muck="1"/>
+<player seat="1" name="onspot" chips="€0.65" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="3" name="clemestine" chips="€0.29" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="5" name="frenchguy" chips="€0.45" dealer="0" win="€0" bet="€0.08" muck="1"/>
+<player seat="6" name="Kifran65" chips="€0.42" dealer="0" win="€0" bet="€0.04" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="frenchguy" type="1" sum="€0.01"/>
+<action no="2" player="Kifran65" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<cards type="Pocket" player="danzoc76">X X</cards>
+<cards type="Pocket" player="frenchguy">X X</cards>
+<cards type="Pocket" player="clemestine">SQ D8</cards>
+<cards type="Pocket" player="Kifran65">X X</cards>
+<cards type="Pocket" player="onspot">X X</cards>
+<action no="3" player="ANGELOJOE2412" type="3" sum="€0.02"/>
+<action no="4" player="danzoc76" type="3" sum="€0.02"/>
+<action no="5" player="onspot" type="0" sum="€0"/>
+<action no="6" player="clemestine" type="0" sum="€0"/>
+<action no="7" player="frenchguy" type="23" sum="€0.04"/>
+<action no="8" player="Kifran65" type="3" sum="€0.02"/>
+<action no="9" player="ANGELOJOE2412" type="3" sum="€0.02"/>
+<action no="10" player="danzoc76" type="3" sum="€0.02"/>
+</round>
+<round no="2"><cards type="Flop">D4 D7 D5</cards>
+<action no="11" player="frenchguy" type="5" sum="€0.04"/>
+<action no="12" player="Kifran65" type="0" sum="€0"/>
+<action no="13" player="ANGELOJOE2412" type="0" sum="€0"/>
+<action no="14" player="danzoc76" type="23" sum="€0.09"/>
+<action no="15" player="frenchguy" type="0" sum="€0"/>
+</round>
+</game>
+<game gamecode="6205966860"><general><startdate>2022-11-19 18:12:46</startdate>
+<players><player seat="10" name="danzoc76" chips="€0.28" dealer="0" win="€0" bet="€0" muck="1"/>
+<player seat="1" name="onspot" chips="€0.65" dealer="0" win="€0.67" bet="€0.29" muck="0"/>
+<player seat="3" name="clemestine" chips="€0.29" dealer="0" win="€0" bet="€0.29" muck="0"/>
+<player seat="5" name="frenchguy" chips="€0.37" dealer="1" win="€0" bet="€0" muck="1"/>
+<player seat="6" name="Kifran65" chips="€0.38" dealer="0" win="€0" bet="€0.01" muck="1"/>
+<player seat="8" name="ANGELOJOE2412" chips="€3.04" dealer="0" win="€0" bet="€0.12" muck="1"/>
+</players>
+</general>
+<round no="0"><action no="1" player="Kifran65" type="1" sum="€0.01"/>
+<action no="2" player="ANGELOJOE2412" type="2" sum="€0.02"/>
+</round>
+<round no="1"><cards type="Pocket" player="Kifran65">X X</cards>
+<cards type="Pocket" player="ANGELOJOE2412">X X</cards>
+<cards type="Pocket" player="clemestine">D8 C8</cards>
+<cards type="Pocket" player="onspot">D10 HQ</cards>
+<cards type="Pocket" player="frenchguy">X X</cards>
+<cards type="Pocket" player="danzoc76">X X</cards>
+<action no="3" player="danzoc76" type="0" sum="€0"/>
+<action no="4" player="onspot" type="3" sum="€0.02"/>
+<action no="5" player="clemestine" type="23" sum="€0.08"/>
+<action no="6" player="frenchguy" type="0" sum="€0"/>
+<action no="7" player="Kifran65" type="0" sum="€0"/>
+<action no="8" player="ANGELOJOE2412" type="3" sum="€0.06"/>
+<action no="9" player="onspot" type="3" sum="€0.06"/>
+</round>
+<round no="2"><cards type="Flop">S4 C10 D7</cards>
+<action no="10" player="ANGELOJOE2412" type="5" sum="€0.04"/>
+<action no="11" player="onspot" type="3" sum="€0.04"/>
+<action no="12" player="clemestine" type="3" sum="€0.04"/>
+</round>
+<round no="3"><cards type="Turn">C5</cards>
+<action no="13" player="ANGELOJOE2412" type="4" sum="€0"/>
+<action no="14" player="onspot" type="5" sum="€0.02"/>
+<action no="15" player="clemestine" type="23" sum="€0.17"/>
+<action no="16" player="ANGELOJOE2412" type="0" sum="€0"/>
+<action no="17" player="onspot" type="3" sum="€0.15"/>
+</round>
+<round no="4"><cards type="River">H7</cards>
+</round>
+</game>
+</session>
